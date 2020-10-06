@@ -1,0 +1,1321 @@
+@charset "UTF-8";
+/*
+Theme Name: Emanon Business
+Theme URI: https://wp-emanon.jp
+Author: 株式会社イノ・コード
+Author URI: https://innocord.co.jp/
+Description: Emanon Pro（エマノン プロ）対応の子テーマです。ビジネスサイトに特化したフロントページの設定ができます。
+Template: emanon-pro
+Version: 1.3.7
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: one-column, two-columns, three-columns, left-sidebar, right-sidebar, theme-options
+
+Emanon Business用のスタイルを以下に記述
+カスタマイズ機能のCSS圧縮をオンにしている場合、オフに切り替えてからスタイルを追加し、その後、再度CSS圧縮をオンにしてください。
+*/
+
+.inner {
+	padding: 0 8px;
+}
+
+/* Newsticker section */
+.eb-ticker-section {
+	display: none;
+}
+
+/* solution section */
+.eb-solution-section {
+	position: relative;
+	padding: 82px 0;
+	text-align: center;
+	background-color: #fff;
+}
+
+.solution-header {
+	margin: 0 0 48px 0;
+}
+
+.solution-header h3 {
+	position: relative;
+	margin: 0 0 16px 0;
+	font-size: 26px;
+	font-size: 2.6rem;
+	color: #000c15;
+}
+
+.solution-header p {
+	margin: 16px 0 32px 0;
+	color: #303030;
+}
+
+.solution-box-list {
+	width: 100%;
+	margin: 0 2.6% 32px 0;
+	box-sizing: border-box;
+	border-radius: 0 0 4px 4px;
+	-webkit-transition: all 0.2s ease 0s;
+	transition: all 0.2s ease 0s;
+}
+
+.solution-box-list:nth-child(3n+1) {
+	margin: 0 0 32px 0;
+}
+
+.solution-box-list p {
+	color: #000c15;
+}
+
+.solution-box-icon img {
+	width: 96px;
+	height: 96px;
+	border-radius: 50%;
+}
+
+.solution-box-icon i {
+	width: 96px;
+	height: 96px;
+	line-height: 96px;
+	border-radius: 50%;
+	border: 2px solid #9b8d77;
+	color:	#9b8d77;
+	-webkit-transition: all 0.2s ease 0s;
+	transition: all 0.2s ease 0s;
+}
+
+.solution-box-list:hover i {
+	box-shadow: 0 0 0 0px #00bcd4;
+	background: #9b8d77;
+	border: 2px solid #9b8d77;
+	color: #fff;
+}
+
+.solution-box-detail {
+	overflow: hidden;
+}
+
+.solution-box-list h3 {
+	padding: 16px 0;
+	font-size: 20px;
+	font-size: 2.0rem;
+}
+
+.solution-box-list h3:before,
+.solution-box-list h3:after {
+	display: inline-block;
+	opacity: 0;
+	-webkit-transition: -webkit-transform 0.3s, opacity 0.2s;
+	transition: transform 0.3s, opacity 0.2s;
+}
+
+.solution-box-list h3:before {
+	margin-right: 10px;
+	content: '[';
+	-webkit-transform: translateX(20px);
+	transform: translateX(20px);
+}
+
+.solution-box-list h3:after {
+	content: ']';
+	-webkit-transform: translateX(-20px);
+	transform: translateX(-20px);
+	margin-left: 8px;
+}
+
+.solution-box-list:hover h3:before,
+.solution-box-list:hover h3:after,
+.solution-box-list:hover h3:before,
+.solution-box-list:hover h3:after {
+	-webkit-transform: translateX(0px);
+	transform: translateX(0px);
+	opacity: 1;
+}
+
+.bottom-arrow {
+	position: absolute;
+	left: 50%;
+	margin-left: -20px;
+	width: 40px;
+	height: 40px;
+	background: #fff;
+	-webkit-transform: rotate( 45deg );
+	-moz-transform: rotate( 45deg );
+	transform: rotate( 45deg );
+	bottom: -20px;
+	-webkit-filter: drop-shadow(2px 1px 0px rgba(0,0,0,0.1));
+	filter: drop-shadow(2px 1px 0px rgba(0,0,0,0.1));
+	z-index: 888;
+}
+
+/* Sales section */
+.eb-sales-section {
+	padding: 82px 0;
+	border-top: 1px solid #e2e5e8;
+}
+
+.eb-sales-section .inner {
+	padding: 0 16px;
+}
+
+.sales-section img {
+	margin-bottom: 32px;
+}
+
+.sales-section-col {
+	width: 100%;
+}
+
+.sales-header {
+	margin: 0 0 64px 0;
+	text-align: center;
+}
+
+.sales-content p {
+	padding-bottom: 16px;
+	text-align: justify;
+}
+
+.sales-section-cta {
+	margin-top: 16px;
+	text-align: center;
+}
+
+.sales-section-btn {
+	width: 100%;
+}
+
+.sales-section-btn a {
+	background-color: #9b8d77;
+	color: #fff;
+}
+
+.sales-section-box {
+	padding: 56px 0 0 0;
+}
+
+.sales-box-list {
+	padding-bottom: 32px;
+}
+
+.sales-box-list:nth-child(3) {
+	padding-bottom: 0;
+}
+
+.sales-box-header {
+	position: relative;
+	margin-bottom: 8px;
+}
+
+.sales-box-header h3, .sales-box-header i {
+	-webkit-transition: 0.2s ease-in-out;
+	transition: 0.2s ease-in-out;
+}
+
+.sales-box-icon {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.sales-box-detail p {
+	padding-bottom: 16px;
+	text-align: justify;
+}
+
+#sales-section-video {
+ width: 100%;
+}
+
+.sales-section-video-wrap {
+  position: relative;
+}
+
+.sales-section-video-btn {
+	content: "";
+	position: absolute;
+	top:0;
+	left:0;
+	right:0;
+	bottom:40px; /*コントローラー分下部に余白を*/
+	cursor: pointer;
+}
+
+/* Benefit section */
+.eb-benefit-section {
+	position: relative;
+	padding: 86px 0 54px 0;
+	border-top: 1px solid #e2e5e8;
+	background-color: #f8f8f8;
+	text-align: center;
+}
+
+.benefit-header {
+	margin: 0 0 48px 0;
+	padding: 0 16px;
+}
+
+.benefit-header h3 {
+	position: relative;
+	margin: 0 0 16px 0;
+	font-size: 26px;
+	font-size: 2.6rem;
+	color: #000c15;
+}
+
+.benefit-header p {
+	margin: 16px 0 32px 0;
+	color: #303030;
+}
+
+.benefit-box-list {
+	margin: 0 2.9% 32px 0;
+	padding: 48px 16px;
+	width: 100%;
+	box-sizing: border-box;
+	border-radius: 0 0 4px 4px;
+	border: 1px solid #e2e5e8;
+	background-color: #f4f4f4;
+	-webkit-transition: all 0.2s ease 0s;
+	transition: all 0.2s ease 0s;
+}
+
+.benefit-box-icon {
+	margin-bottom: 32px;
+}
+
+.benefit-box-list:hover {
+	background-color: #6584d1;
+	color: #fff
+}
+
+.benefit-box-list:nth-child(3n+1) {
+	margin: 0 0 32px 0;
+}
+
+.benefit-box-icon img {
+	width: 350px;
+	height: 100%;
+}
+
+.benefit-box-list:hover img {
+	color: #fff;
+}
+
+.benefit-box-icon i {
+	font-size: 64px;
+	color:	#9b8d77;
+	-webkit-transition: all 0.2s ease 0s;
+	transition: all 0.2s ease 0s;
+}
+
+.benefit-box-list:hover i {
+	color: #fff;
+	-webkit-transform: TranslateY(-8px);
+	transform: TranslateY(-8px);
+}
+
+.benefit-box-detail {
+	position: relative;
+	overflow: hidden;
+}
+
+.benefit-box-detail h3 {
+	font-size: 20px;
+	font-size: 2.0rem;
+	-webkit-transition: all 0.2s ease 0s;
+	transition: all 0.2s ease 0s;
+}
+
+.benefit-box-detail:hover h3 {
+	color: #fff
+}
+
+.benefit-box-list p {
+	margin-top: 32px;
+	-webkit-transition: all 0.2s ease 0s;
+	transition: all 0.2s ease 0s;
+}
+
+.benefit-box-list:hover p {
+	color: #fff
+}
+
+/* Case Section */
+.eb-case-section {
+	position: relative;
+	padding: 86px 16px 54px 16px;
+	border-top: 1px solid #e2e5e8;
+	background-color: #f8f8f8;
+	text-align: center;
+}
+
+.case-header {
+	margin: 0 0 48px 0;
+	padding: 0 16px;
+}
+
+.case-header h3 {
+	position: relative;
+	margin: 0 0 16px 0;
+	font-size: 26px;
+	font-size: 2.6rem;
+	color: #000c15;
+}
+
+.case-header p {
+	margin: 16px 0 32px 0;
+	color: #303030;
+}
+
+.case-thumbnail {
+	position: relative;
+}
+
+.case-thumbnail a {
+	display: block;
+}
+
+.case-thumbnail img {
+	width: 100%;
+	height: auto;
+	vertical-align: middle;
+}
+
+.case-post {
+	padding: 8px 0;
+}
+
+.case-title a {
+	display: block;
+	color: #000c15;
+}
+
+.case-title {
+	font-size: 16px;
+	font-size: 1.6rem;
+	font-weight: bold;
+}
+
+.case-section-list {
+	margin: 32px 0;
+}
+
+.case-section-btn {
+	width: 80%;
+}
+
+.case-section-btn a {
+	background-color: #9b8d77;
+	color: #fff;
+}
+
+/* Product section */
+.eb-product-section {
+	padding: 64px 0;
+}
+
+.product-message {
+	position: absolute;
+	top: 50%;
+	-webkit-transform: translateY(-50%);
+	transform: translateY(-50%);
+	text-align: center;
+	z-index: 300;
+}
+
+.product-content {
+	margin: 0 16px;
+}
+
+.product-content h2 {
+	margin: 16px 0;
+	color: #fff;
+	text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.4);
+}
+
+.product-content p {
+	margin: 16px 0;
+	color: #fff;
+	text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.4);
+}
+
+.product-section-cta {
+	margin-top: 32px;
+}
+
+.product-section-btn {
+	position: relative;
+	width: 80%;
+}
+
+.product-section-btn a {
+	background-color: #9b8d77;
+	color: #fff;
+}
+
+/* Front cta section */
+.eb-front-cta-section {
+	padding: 40px 0 72px 0;
+	background-color: #161410;
+}
+
+.front-cta-header {
+	margin: 32px 0 16px 0;
+	text-align: center;
+}
+
+.front-cta-header h2 {
+	font-size: 20px;
+	font-size: 2.0rem;
+	color: #fff;
+}
+
+.front-cta-header-single {
+	margin: 32px 0 16px 0;
+	text-align: center;
+}
+
+.front-cta-header-single h2, .front-cta-header-single .fa {
+	font-size: 20px;
+	font-size: 2.0rem;
+	color: #fff;
+}
+
+.front-cta-header .fa {
+	margin: 0 8px 0 0;
+	font-size: 20px;
+	font-size: 2.0rem;
+	color: #fff;
+}
+
+.front-cta-content dl {
+	position: relative;
+	padding: 32px;
+	border: 1px solid #e2e5e8;
+	color: #fff;
+	z-index: 300;
+}
+
+.front-cta-content dt {
+	padding: 0 0 24px 0;
+	font-weight: normal;
+}
+
+.front-cta-content dd {
+	padding: 0;
+	text-align: center;
+}
+
+.front-cta-tell {
+	font-size: 20px;
+	font-size: 2.0rem;
+	font-weight: bold;
+}
+
+.front-cta-mail-btn {
+	position: relative;
+	width: 80%;
+}
+
+/* Price section */
+.eb-price-section {
+	position: relative;
+	padding: 86px 0;
+	border-top: 1px solid #e2e5e8;
+	background-color: #f8f8f8;
+}
+
+.price-header {
+	margin: 0 0 48px 0;
+	text-align: center;
+}
+
+.price-header h2 {
+	margin: 0 0 16px 0;
+	font-size: 26px;
+	font-size: 2.6rem;
+}
+
+.price-header p {
+	margin: 16px 0 32px 0;
+	font-size: 18px;
+	font-size: 1.8rem;
+}
+
+.eb-price-section table {
+	table-layout: fixed;
+	border: none;
+	text-align: center;
+}
+
+.eb-price-section table td {
+	display: block;
+	margin-bottom: 32px;
+	padding: 0;
+	border: 1px solid #e2e5e8;
+	background-color: #fff;
+	text-align: center;
+	vertical-align: inherit;
+}
+
+.eb-price-section table td:hover {
+	box-shadow: 0 10px 20px -5px rgba(0, 0, 0, 0.2);
+	-webkit-transition: 0.2s ease-in-out;
+	transition: 0.2s ease-in-out;
+}
+
+.price-item {
+	padding: 16px;
+	border-bottom: 1px solid #e2e5e8;
+	background-color: #9b8d77;
+	color: #fff;
+	font-size: 18px;
+	font-size: 1.8rem;
+	font-weight: bold;
+	color: #303030;
+}
+
+.price-selling {
+	padding: 16px;
+	border-bottom: 1px solid #e2e5e8;
+	font-size: 16px;
+	font-size: 1.6rem;
+	font-weight: bold;
+	color: #303030;
+}
+
+.price-description {
+	padding: 16px;
+	line-height: 2;
+	font-size: 14px;
+	font-size: 1.4rem;
+}
+
+.eb-price-section .bottom-arrow {
+	background-color: #f8f8f8;
+}
+
+/* Category section */
+.eb-category-section {
+	padding: 86px 0;
+	border-top: 1px solid #e2e5e8;
+	background-color: #fff;
+}
+
+.category-img img {
+	width: 100%;
+	height: auto;
+	vertical-align: bottom;
+}
+
+.category-header {
+	margin: 0 0 48px 0;
+	text-align: center;
+}
+
+.category-header p {
+	margin: 16px 0 32px 0;
+	color: #303030;
+}
+
+.category-body {
+	display: -webkit-flex;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	align-items: stretch;
+}
+
+.category-box {
+	position: relative;
+	margin: 0 0 32px 0;
+	width: 100%;
+	border-radius: 0 0 4px 4px;
+	border: 1px solid #e2e5e8;
+	box-sizing: border-box;
+	background-color: #f4f4f4;
+}
+
+.category-box-list {
+	overflow: hidden;
+}
+
+.category-box-header {
+	position: relative;
+	margin-bottom: 32px;
+}
+
+.category-box-header h3 {
+	padding: 24px 16px 16px 16px;
+	text-align: center;
+	font-size: 20px;
+	font-size: 2.0rem;
+}
+
+.category-box-header h3:after {
+	content: "";
+	position: absolute;
+	top: 64px;
+	left: 0;
+	right: 0;
+	width: 32px;
+	height: 2px;
+	margin: 0 auto;
+}
+
+.category-box-header p {
+	margin-top: 16px;
+	padding: 0 16px;
+	font-size: 14px;
+	font-size: 1.4rem;
+}
+
+.category-box:nth-child(3n+1) {
+	margin: 0 0 32px 0;
+}
+
+.category-list {
+	margin-bottom: 10rem;
+}
+
+.category-list li {
+	padding: 0px 16px 8px 16px;
+	font-size: 16px;
+	font-size: 1.6rem;
+}
+
+.category-list li a:before {
+	content: "-";
+	display: inline-block;
+	padding-right: 5px;
+}
+
+.category-list li a {
+	display: block;
+	font-weight: bold;
+}
+
+.category-box-footer {
+	position: absolute;
+	right: 0;
+	bottom: 24px;
+	left: 0;
+	width: 100%;
+}
+
+.category-btn a {
+	background-color: #9b8d77;
+	font-size: 12px;
+	font-size: 1.2rem;
+	color: #fff;
+}
+
+/* Content section */
+.home .content {
+	border-top: 1px solid #e2e5e8;
+}
+
+/* Accordion faq section */
+.eb-accordion-faq-section {
+	padding: 86px 0;
+	border-top: 1px solid #e2e5e8;
+	background-color: #fff;
+}
+
+.accordion-faq-container {
+	position: relative;
+	width: 100%;
+	margin: 0 auto;
+}
+
+.accordion-faq-header {
+	margin: 0 0 48px 0;
+	text-align: center;
+}
+
+.accordion-faq-header h2 {
+	margin: 0 0 16px 0;
+	font-size: 26px;
+	font-size: 2.6rem;
+}
+
+.accordion-faq-header p {
+	margin: 16px 0 32px 0;
+	font-size: 18px;
+	font-size: 1.8rem;
+}
+
+.accordion-faq-content {
+	text-align: left;
+}
+
+.accordion-faq-content dt {
+	position: relative;
+	padding: 4px 0 32px 40px;
+	font-weight: normal;
+	cursor: pointer;
+}
+
+.accordion-faq-content dd {
+	position: relative;
+	margin-bottom: 32px;
+	padding: 4px 0 32px 40px;
+	border-bottom: 1px solid #e2e5e8;
+}
+
+.accordion-faq-content dd a {
+	color: #9b8d77;
+	text-decoration: underline;
+}
+
+.accordion-faq-content dd a:hover {
+	color: #b5b5b5;
+	text-decoration: none;
+}
+
+.accordion-faq-content .question:before {
+	display: inline-block;
+	content: "Q";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 32px;
+	height: 32px;
+	line-height: 32px;
+	text-align: center;
+	background: #9b8d77;
+	color: #fff;
+	border-radius: 50%;
+	font-weight: normal;
+}
+
+.accordion-faq-content .answer:before {
+	display: inline-block;
+	content: "A";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 32px;
+	height: 32px;
+	line-height: 32px;
+	text-align: center;
+	background: #232323;
+	color: #fff;
+	border-radius: 50%;
+	font-weight: normal;
+}
+
+.faq-section-btn {
+	width: 80%;
+}
+
+.faq-section-btn a {
+	background-color: #9b8d77;
+	color: #fff;
+}
+
+/* Contactfrom section */
+.eb-contactfrom-section {
+	padding: 86px 0;
+	border-top: 1px solid #e2e5e8;
+	text-align: center;
+}
+
+.contactfrom-header {
+	margin-bottom: 32px;
+}
+
+.contactfrom-content p {
+	margin-bottom: 32px;
+}
+
+.contactfrom-content .wpcf7 {
+	margin: 32px 0;
+	padding: 32px 16px;
+	background-color: #fff;
+}
+
+.contactfrom-content input[type="text"],
+.contactfrom-content input[type="email"],
+.contactfrom-content input[type="url"],
+.contactfrom-content input[type="password"],
+.contactfrom-content input[type="search"],
+.contactfrom-content input[type="number"],
+.contactfrom-content input[type="tel"],
+.contactfrom-content input[type="range"],
+.contactfrom-content input[type="color"],
+.contactfrom-content input[type="time"],
+.contactfrom-content input[type="date"],
+.contactfrom-content input[type="datetime"],
+.contactfrom-content input[type="datetime-local"],
+.contactfrom-content input[type="week"],
+.contactfrom-content input[type="month"],
+.contactfrom-content select,
+.contactfrom-content textarea {
+	margin: 8px 0 16px 0;
+	width: 100%;
+	background-color: #f8f8f8;
+}
+
+.contactfrom-content-btn a, .contactfrom-content input[type="submit"] {
+	margin-top: 32px;
+	background-color: #9b8d77;
+	color: #fff;
+}
+
+.contactfrom-content .wpcf7-response-output {
+	margin: 0 auto;
+	margin-top: 32px;
+	width: 95%;
+}
+
+.front-page-widget {
+	background-color: #fff;
+}
+
+.front-page-widget h2 {
+	padding: 32px 0;
+	text-align: center;
+}
+
+@media screen and ( min-width: 768px ) {
+.inner {
+	padding: 0;
+}
+
+/* Solution section */
+.solution-box-list {
+	float: left;
+	width: 31.4%;
+	margin: 0 2.6% 0 0;
+}
+
+/* Sales section */
+.sales-section-col {
+	float: left;
+	margin-left: 2.8%;
+	width: 48.6%;
+}
+
+.sales-section-col:first-child {
+	margin-left: 0;
+}
+
+.sales-section-box {
+	padding: 0;
+}
+
+.sales-section-btn {
+	width: 80%;
+}
+
+/* Case section */
+.eb-case-section {
+	padding: 86px 0 54px 0;
+}
+
+.case-section-btn {
+	width: 40%;
+}
+
+/* Price section */
+.eb-price-section table td {
+	display: table-cell;
+}
+
+/* Product section */
+.product-section {
+	padding: 64px 0;
+}
+
+.product-section-btn {
+	width: 50%;
+}
+
+/* Accordion faq section */
+.accordion-faq-container {
+	width: 752px;
+}
+
+.faq-section-btn {
+	width: 40%;
+}
+
+/* Front CTA section */
+.eb-front-cta-section {
+	padding: 72px 0;
+}
+
+.front-cta-col6 {
+	position: relative;
+	width: 100%;
+	margin-left: 0;
+}
+
+.front-cta-header {
+	margin: 0 0 16px 0;
+}
+
+.front-cta-header h2, .front-cta-header .fa {
+	font-size: 24px;
+	font-size: 2.4rem;
+}
+
+.front-cta-single {
+	width: 100%;
+	margin: 0 auto;
+}
+
+.front-cta-header-single {
+	margin: 0 0 16px 0;
+}
+
+.front-cta-header-single h2, .front-cta-header-single .fa {
+	font-size: 24px;
+	font-size: 2.4rem;
+}
+
+.front-cta-content-single {
+	border: 1px solid #e2e5e8;
+}
+
+.cta-tel {
+	margin-bottom: 0;
+	padding-bottom: 0;
+	border-bottom: none;
+}
+
+.front-cta-mail-btn {
+	width: 80%;
+}
+
+/* Benefit section */
+.benefit-box-list {
+	float: left;
+	width: 31.4%;
+	margin: 0 2.6% 32px 0;
+}
+
+/* Category section */
+.category-box {
+	float: left;
+	width: 31.4%;
+	margin: 0 2.6% 32px 0;
+}
+
+.category-list li {
+	font-size: 14px;
+	font-size: 1.4rem;
+}
+
+.category-btn {
+	width: 80%;
+}
+
+/* Accordion faq section */
+.accordion-faq-content li {
+	padding: 8px 0 32px 56px;
+}
+
+/* Contactfrom section */
+.contactfrom-content input[type="text"],
+.contactfrom-content input[type="email"],
+.contactfrom-content input[type="url"],
+.contactfrom-content input[type="password"],
+.contactfrom-content input[type="search"],
+.contactfrom-content input[type="number"],
+.contactfrom-content input[type="tel"],
+.contactfrom-content input[type="range"],
+.contactfrom-content input[type="color"],
+.contactfrom-content input[type="time"],
+.contactfrom-content input[type="date"],
+.contactfrom-content input[type="datetime"],
+.contactfrom-content input[type="datetime-local"],
+.contactfrom-content input[type="week"],
+.contactfrom-content input[type="month"],
+.contactfrom-content select,
+.contactfrom-content textarea {
+	width: 70%;
+}
+
+.contactfrom-content .wpcf7 {
+	margin: 32px;
+	padding: 32px;
+}
+
+.front-cta-col6 {
+	float: left;
+	margin-left: 2.8%;
+	width: 48.6%;
+}
+
+.front-cta-first {
+	margin-left: 0;
+}
+
+.front-cta-single {
+	width: 752px;
+}
+
+}
+
+@media screen and ( min-width: 992px ) {
+/* Newsticker section */
+.eb-ticker-section {
+	display: block;
+	height: 48px;
+	padding: 0 8px;
+	background-color: #f8f8f8;
+	font-size: 14px;
+	font-size: 1.4rem;
+	background-color: #fff;
+}
+
+.ticker-label {
+	float: left;
+	margin-right: 24px;
+	line-height: 48px;
+}
+
+.ticker-label a {
+	padding: 4px 24px;
+	color: #fff;
+	background-color: #161410;
+}
+
+.ticker-label a:hover {
+	color: #fff;
+	background-color: #6584d1;
+}
+
+.ticker-title {
+	height: 48px;
+	line-height: 48px;
+	overflow: hidden;
+}
+
+.ticker-date {
+	padding-right: 8px;
+}
+
+/* Sales section */
+.sales-section-btn {
+	width: 60%;
+}
+
+/* Case section */
+.case-section-btn {
+	width: 20%;
+}
+
+/* Product section */
+.product-section-btn {
+	width: 35%;
+}
+
+/* Front CTA section */
+.front-cta-mail-btn {
+	width: 60%;
+}
+
+/* Accordion faq section */
+.accordion-faq-container {
+	width: 960px;
+}
+
+.faq-section-btn {
+	width: 20%;
+}
+
+}
+
+@media screen and ( min-width: 1200px ) {
+
+}
+
+
+/* ▼ここから「追加した装飾用CSS」*/
+
+/* ▼枠装飾用CSS*/
+/* ▼STEP用「ボックス内にラベル」*/
+.box-label {
+    position: relative;
+    margin: 2em 0;
+    padding: 25px 10px 7px;
+    border: solid 2px #FFC107;
+}
+.box-label .box-title {
+    position: absolute;
+    display: inline-block;
+    top: -2px;
+    left: -2px;
+    padding: 0 9px;
+    height: 25px;
+    line-height: 25px;
+    vertical-align: middle;
+    font-size: 17px;
+    background: #FFC107;
+    color: #ffffff;
+    font-weight: bold;
+}
+.box-label p {
+    margin: 0; 
+    padding: 0;
+}
+
+/*----------------------------------------------------
+  .table-responsive
+----------------------------------------------------*/
+.table-responsive th  { width: 30%; text-align: left; }
+ 
+@media only screen and (max-width:480px){
+    .table-responsive { margin: 0 -10px; }
+    .table-responsive th,
+    .table-responsive td{
+    width: 100%;
+    display: block;
+    border-top: none;
+    }
+  .table-responsive tr:first-child th { border-top: 1px solid #ddd; }
+}
+
+/* ▼輸入・輸出ガイド用枠内小窓*/
+.import-export-guide-box {
+    padding: 1em;
+    margin: 1em 0 1em;
+    background: #FFFFFF;
+	text-align:left
+}
+
+
+.import-export-guide-box-inner{
+    padding: 1em;
+}
+
+/* ▼輸入ガイド用枠線*/
+.import-guide-box {
+    margin: 2em 0;
+    padding-bottom: 1em;
+    background: #ECEEF1;
+}
+.import-guide-box .box-title {
+    font-size: 1.2em;
+    background: #58BE89;
+    padding: 4px;
+    text-align: center;
+    color: #FFF;
+    font-weight: bold;
+    letter-spacing: 0.05em;
+}
+.import-guide-box p {
+    padding: 15px 20px;
+    margin: 0;
+}
+
+.import-guide-box i {
+	color: #58BE89;
+}
+ 
+
+/* ▼輸出ガイド用枠線*/
+
+.export-guide-box {
+    margin: 2em 0;
+    padding-bottom: 1em;
+    background: #ECEEF1;
+}
+.export-guide-box .box-title {
+    font-size: 1.2em;
+    background: #FBA848;
+    padding: 4px;
+    text-align: center;
+    color: #FFF;
+    font-weight: bold;
+    letter-spacing: 0.05em;
+}
+.export-guide-box p {
+    padding: 15px 20px;
+    margin: 0;
+}
+
+.export-guide-box i {
+	color: #FBA848;
+}
+
+
+/* ▼ボックス_背景グレー*/
+.box-background-paintover-gray {
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    color: #2c2c2f;
+    background: #F3F3F3;/*背景色*/
+}
+.box-background-paintover-gray p {
+    margin: 0; 
+    padding: 0;
+}
+
+
+/* ▼ボックス_背景ベージュ*/
+.box-background-paintover-beige {
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    color: #2c2c2f;
+    background: #FCF5DC;/*背景色*/
+}
+.box-background-paintover-beige p {
+    margin: 0; 
+    padding: 0;
+}
+
+/* ▼ボックス_枠の途中にタイトル_背景赤*/
+.box-title-Midstream-red {
+    position: relative;
+    margin: 2em 0;
+	padding: 0.5em 1em;
+    border: solid 2px #e85247;
+	text-align: left;
+}
+.box-title-Midstream-red .box-title {
+    position: absolute;
+    display: inline-block;
+    top: -13px;
+    left: 10px;
+    padding: 0 9px;
+    line-height: 1;
+    font-size: 17px;
+    background: #FFF;
+    color: #e85247;
+    font-weight: bold;
+}
+.box-title-Midstream-red p {
+    margin: 0; 
+    padding: 0;
+}
+
+.box-title-Midstream-red i {
+	color: #e85247;
+}
+
+
+/* ▼下線マーカー装飾*/
+
+.under-yellow {
+  background: linear-gradient(transparent 60%, yellow 60%);
+  }
+
+/* ▼TOPページ各プランボタン*/
+.btn-sticky {
+  display: inline-block;
+  padding: 0.5em 1em;
+  text-decoration: none;
+  background: #f7f7f7;
+  border-left: solid 6px #ff7c5c;/*左線*/
+  color: #ff7c5c;/*文字色*/
+  font-weight: bold;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.29);
+}
+.btn-sticky:active {
+  box-shadow: inset 0 0 2px rgba(128, 128, 128, 0.1);
+  transform: translateY(2px);
+}

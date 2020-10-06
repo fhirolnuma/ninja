@@ -1,0 +1,63 @@
+@charset "UTF-8";
+/*
+Theme Name: Emanon Pro child
+Theme URI: https://wp-emanon.jp
+Author: 株式会社イノ・コード
+Author URI: https://innocord.co.jp/
+Description: Emanon Pro の子テーマです。
+Template: emanon-pro
+Version: 1.2.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: one-column, two-columns, three-columns, left-sidebar, right-sidebar, theme-options
+
+Emanon Pro 子テーマ用のスタイルを以下に記述 
+カスタマイズ機能のCSS圧縮をオンにしている場合、オフに切り替えてからスタイルを追加し、その後、再度CSS圧縮を
+オンにしてください。
+*/
+
+/* ▼ここから「追加した装飾用CSS」*/
+
+/* ▼枠装飾用CSS*/
+/* ▼STEP用「ボックス内にラベル」*/
+.box-label {
+    position: relative;
+    margin: 2em 0;
+    padding: 25px 10px 7px;
+    border: solid 2px #FFC107;
+}
+.box-label .box-title {
+    position: absolute;
+    display: inline-block;
+    top: -2px;
+    left: -2px;
+    padding: 0 9px;
+    height: 25px;
+    line-height: 25px;
+    vertical-align: middle;
+    font-size: 17px;
+    background: #FFC107;
+    color: #ffffff;
+    font-weight: bold;
+}
+.box-label p {
+    margin: 0; 
+    padding: 0;
+}
+
+/*----------------------------------------------------
+  .table-responsive
+----------------------------------------------------*/
+.table-responsive th  { width: 30%; text-align: left; }
+ 
+@media only screen and (max-width:480px){
+    .table-responsive { margin: 0 -10px; }
+    .table-responsive th,
+    .table-responsive td{
+    width: 100%;
+    display: block;
+    border-top: none;
+    }
+  .table-responsive tr:first-child th { border-top: 1px solid #ddd; }
+}
+ 

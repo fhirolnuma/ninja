@@ -1,0 +1,3927 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: emanon ver1.0\n"
+"POT-Creation-Date: 2017-10-22 15:10+0900\n"
+"PO-Revision-Date: 2015-11-26 01:48+0900\n"
+"Last-Translator: innocord <y_kohira@innocord.co.jp>\n"
+"Language-Team: innocord <contact@innocord.co.jp>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: blog-templates/archive/left-sidebar-archive.php:17
+#: blog-templates/archive/no-sidebar-archive.php:17
+#: blog-templates/archive/right-sidebar-archive.php:17
+msgid "404 File not found."
+msgstr ""
+
+#: blog-templates/archive/left-sidebar-archive.php:19
+#: blog-templates/archive/no-sidebar-archive.php:19
+#: blog-templates/archive/right-sidebar-archive.php:19
+msgid "Search Word"
+msgstr ""
+
+#: blog-templates/archive/left-sidebar-archive.php:19
+#: blog-templates/archive/no-sidebar-archive.php:19
+#: blog-templates/archive/right-sidebar-archive.php:19
+msgid "Number"
+msgstr ""
+
+#: blog-templates/front/front-left-sidebar.php:8
+#: blog-templates/front/front-no-sidebar.php:8
+#: blog-templates/front/front-right-sidebar.php:8
+#: lib/customizer-panels/front-page-panel.php:1834
+msgid "Latest Posts"
+msgstr ""
+
+#: comments.php:15
+msgid "Comments"
+msgstr ""
+
+#: comments.php:26
+msgid "Never e-mail address is published"
+msgstr ""
+
+#: comments.php:28
+msgid "Commenter name"
+msgstr ""
+
+#: comments.php:28 comments.php:30
+msgid "Required"
+msgstr ""
+
+#: comments.php:30
+msgid "Commenter email"
+msgstr ""
+
+#: comments.php:33
+msgid "comment"
+msgstr ""
+
+#: content-archive.php:26 content-home.php:26 content-search.php:25
+msgid "Previous"
+msgstr ""
+
+#: content-archive.php:26 content-home.php:26 content-search.php:25
+msgid "Next"
+msgstr ""
+
+#: content-author.php:15 content-landing-page-lead.php:19
+#: content-landing-page.php:21 content-page.php:14 content.php:20
+#: functions.php:209
+msgid "Edit"
+msgstr ""
+
+#: content-author.php:46
+msgid "Post List"
+msgstr ""
+
+#: content-none.php:12
+msgid "Oops! That page cannot be found."
+msgstr ""
+
+#: content-none.php:13
+msgid "The page you were trying to access does not exist or has been removed. Maybe check URL or Find page again from the following methods."
+msgstr ""
+
+#: content-none.php:16
+msgid "Find page in search box."
+msgstr ""
+
+#: content-none.php:17
+msgid "Enter the keyword related to entry looking for in the search box."
+msgstr ""
+
+#: content-none.php:19
+msgid "Find page from the category list."
+msgstr ""
+
+#: content-search.php:32
+msgid "Nothing found."
+msgstr ""
+
+#: content-search.php:35
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: functions.php:34
+msgid "Header menu"
+msgstr ""
+
+#: functions.php:35
+msgid "Header fixed menu"
+msgstr ""
+
+#: functions.php:36
+msgid "Mobile horizontal menu"
+msgstr ""
+
+#: functions.php:37
+msgid "Footer menu"
+msgstr ""
+
+#: functions.php:38
+msgid "LP menu"
+msgstr ""
+
+#: functions.php:39
+msgid "LP mobile horizontal menu"
+msgstr ""
+
+#: functions.php:208
+msgid "Reply"
+msgstr ""
+
+#: lib/customizer-panels/ad-panel.php:15 lib/theme-setup.php:40
+msgid "AD settings"
+msgstr ""
+
+#: lib/customizer-panels/ad-panel.php:22
+msgid "Display ad"
+msgstr ""
+
+#: lib/customizer-panels/ad-panel.php:23
+msgid "Paste ad code in the widget is required."
+msgstr ""
+
+#: lib/customizer-panels/ad-panel.php:35
+msgid "Display ad on list page"
+msgstr ""
+
+#: lib/customizer-panels/ad-panel.php:49
+msgid "Display ad on single page"
+msgstr ""
+
+#: lib/customizer-panels/ad-panel.php:63
+msgid "Display ad on page"
+msgstr ""
+
+#: lib/customizer-panels/ad-panel.php:72 lib/theme-tags.php:1513
+msgid "Sponsor link"
+msgstr ""
+
+#: lib/customizer-panels/ad-panel.php:77
+msgid "Ad label"
+msgstr ""
+
+#: lib/customizer-panels/ad-panel.php:88
+msgid "Display ad position"
+msgstr ""
+
+#: lib/customizer-panels/ad-panel.php:89
+msgid "Selection of display position until a maximum of three."
+msgstr ""
+
+#: lib/customizer-panels/ad-panel.php:101
+msgid "Side bar ad 300px 250px"
+msgstr ""
+
+#: lib/customizer-panels/ad-panel.php:115
+msgid "Article h2 over left ad 300px 250px"
+msgstr ""
+
+#: lib/customizer-panels/ad-panel.php:129
+msgid "Article h2 over right ad 300px 250px"
+msgstr ""
+
+#: lib/customizer-panels/ad-panel.php:143
+msgid "Article under left ad 300px 250px"
+msgstr ""
+
+#: lib/customizer-panels/ad-panel.php:157
+msgid "Article under right ad 300px 250px"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:15 lib/theme-setup.php:34
+msgid "Content settings"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:22
+msgid "Breadcrumb options"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:34
+msgid "Display the breadcrumb in single post"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:48
+msgid "Display the breadcrumb in archive"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:62
+msgid "Display the breadcrumb in page"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:73
+msgid "Post tag options"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:74
+msgid "Display setting of the post page."
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:86
+#: lib/customizer-panels/front-page-panel.php:668
+#: lib/customizer-panels/template-panel.php:178
+msgid "Display date"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:100
+#: lib/customizer-panels/front-page-panel.php:682
+#: lib/customizer-panels/template-panel.php:192
+msgid "Display updade date"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:114
+#: lib/customizer-panels/front-page-panel.php:696
+#: lib/customizer-panels/template-panel.php:206
+msgid "Display category"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:128
+#: lib/customizer-panels/front-page-panel.php:710
+#: lib/customizer-panels/template-panel.php:220
+msgid "Display tag"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:142
+#: lib/customizer-panels/front-page-panel.php:724
+#: lib/customizer-panels/template-panel.php:234
+msgid "Display comments number"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:156
+#: lib/customizer-panels/front-page-panel.php:738
+#: lib/customizer-panels/template-panel.php:248
+msgid "Display author"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:167
+msgid "Featured imag (post) options"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:168
+msgid "Featured Image setting of the post page."
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:180
+msgid "Featured imag (post) type"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:185
+msgid "Wide size"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:186
+msgid "Normal size"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:187
+msgid "No featured image"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:199
+msgid "Display thumbnail caption"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:200
+msgid "Display caption of eye catch image of post page."
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:211
+msgid "SNS share options"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:223
+msgid "SNS share top position"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:237
+msgid "SNS share bottom position"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:251
+msgid "Layout type"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:256
+msgid "No count"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:257
+msgid "Count (Install SNS Count Cache)"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:269
+msgid "Display twitter btn"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:283
+msgid "Display facebook btn"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:297
+msgid "Display hatena btn"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:311
+msgid "Display google+ btn"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:325
+msgid "Display pocket btn"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:336
+msgid "H tag style options"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:348
+msgid "H2 tag style"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:353
+#: lib/customizer-panels/content-panel.php:379
+#: lib/customizer-panels/content-panel.php:405
+#: lib/customizer-panels/content-panel.php:431
+#: lib/customizer-panels/front-page-panel.php:1859
+msgid "None"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:354
+#: lib/customizer-panels/content-panel.php:380
+#: lib/customizer-panels/content-panel.php:406
+#: lib/customizer-panels/content-panel.php:432
+#: lib/customizer-panels/content-panel.php:1361
+#: lib/customizer-panels/cta-panel.php:1174
+#: lib/customizer-panels/front-page-panel.php:1860
+#: lib/customizer-panels/landing-page-panel.php:698
+#: lib/customizer-panels/landing-page-panel.php:1068
+#: lib/customizer-panels/landing-page-panel.php:1334
+#: lib/customizer-panels/landing-page-panel.php:1423
+#: lib/customizer-panels/landing-page-panel.php:1733
+#: lib/customizer-panels/landing-page-panel.php:1975
+#: lib/customizer-panels/landing-page-panel.php:2462
+#: lib/customizer-panels/landing-page-panel.php:2824
+#: lib/customizer-panels/landing-page-panel.php:3422
+#: lib/customizer-panels/landing-page-panel.php:3752
+#: lib/customizer-panels/landing-page-panel.php:3927
+msgid "Background color"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:355
+#: lib/customizer-panels/content-panel.php:381
+#: lib/customizer-panels/content-panel.php:407
+#: lib/customizer-panels/content-panel.php:433
+#: lib/customizer-panels/front-page-panel.php:1861
+msgid "Balloon"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:356
+#: lib/customizer-panels/content-panel.php:382
+#: lib/customizer-panels/content-panel.php:408
+#: lib/customizer-panels/content-panel.php:434
+#: lib/customizer-panels/front-page-panel.php:1862
+msgid "Border left"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:357
+#: lib/customizer-panels/content-panel.php:383
+#: lib/customizer-panels/content-panel.php:409
+#: lib/customizer-panels/content-panel.php:435
+#: lib/customizer-panels/front-page-panel.php:1863
+msgid "Border left background"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:358
+#: lib/customizer-panels/content-panel.php:384
+#: lib/customizer-panels/content-panel.php:410
+#: lib/customizer-panels/content-panel.php:436
+#: lib/customizer-panels/front-page-panel.php:1864
+msgid "Border left bottom"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:359
+#: lib/customizer-panels/content-panel.php:385
+#: lib/customizer-panels/content-panel.php:411
+#: lib/customizer-panels/content-panel.php:437
+#: lib/customizer-panels/front-page-panel.php:1865
+msgid "Border bottom"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:360
+#: lib/customizer-panels/content-panel.php:386
+#: lib/customizer-panels/content-panel.php:412
+#: lib/customizer-panels/content-panel.php:438
+#: lib/customizer-panels/front-page-panel.php:1866
+msgid "Border bottom two"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:361
+#: lib/customizer-panels/content-panel.php:387
+#: lib/customizer-panels/content-panel.php:413
+#: lib/customizer-panels/content-panel.php:439
+#: lib/customizer-panels/front-page-panel.php:1867
+msgid "Border left background stripe"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:362
+#: lib/customizer-panels/content-panel.php:388
+#: lib/customizer-panels/content-panel.php:414
+#: lib/customizer-panels/content-panel.php:440
+#: lib/customizer-panels/front-page-panel.php:1868
+msgid "Border top bottom stripe"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:374
+msgid "H3 tag style"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:400
+msgid "H4 tag style"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:426
+msgid "Sidebar h type"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:449
+msgid "SNS follow options"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:461
+msgid "Display facebook like btn"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:462
+msgid "Display facebook like btn on the bottom of the post page. Facebook application id ( General > Facebook OPG ) and Facebook page set of url ( General > SNS follow url ) is required."
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:471
+msgid "If you like this article, press click button"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:476
+msgid "Facebook like btn title"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:490
+msgid "Facebook like background color"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:503
+msgid "Facebook like background color opacity"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:522
+msgid "Facebook like image"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:523
+msgid "Image size recommended width 1026px height 300px.If you do not set the image, the eye catch image of the posting page will be displayed."
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:536
+msgid "Display twitter follow btn"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:545
+#: lib/modules/components/sns-follow-twitter.php:8
+msgid "Follow me on twitter"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:550
+#: lib/customizer-panels/content-panel.php:578
+msgid "SNS follow title"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:564
+msgid "Display sns follow btn"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:573
+#: lib/customizer-panels/content-panel.php:1069
+#: lib/modules/components/mobile-footer-buttons-modal-window.php:9
+#: lib/modules/components/sns-follow.php:8
+msgid "Follow me on sns"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:589
+msgid "Author profile option"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:601
+msgid "Display author profile"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:610
+#: lib/modules/components/author-profile.php:8
+msgid "About author"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:615
+msgid "Author profile title"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:626
+msgid "Related post options"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:638
+msgid "Display prev link and next link"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:652
+msgid "Display related Post"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:666
+msgid "Layout type［PC］"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:671
+msgid "Display two row"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:672
+msgid "Display three row"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:684
+msgid "Layout type［SP］"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:689
+msgid "Display related list"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:690
+msgid "Display related card"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:697
+#: lib/modules/components/related-post.php:10
+msgid "Related Post"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:702
+#: lib/customizer-panels/front-page-panel.php:1265
+#: lib/customizer-panels/front-page-panel.php:1574
+#: lib/customizer-panels/landing-page-panel.php:108
+#: lib/customizer-panels/landing-page-panel.php:539
+#: lib/customizer-panels/landing-page-panel.php:825
+#: lib/customizer-panels/landing-page-panel.php:1459
+#: lib/customizer-panels/landing-page-panel.php:1821
+#: lib/customizer-panels/landing-page-panel.php:2103
+#: lib/customizer-panels/landing-page-panel.php:2563
+#: lib/customizer-panels/landing-page-panel.php:2964
+#: lib/customizer-panels/landing-page-panel.php:3207
+#: lib/customizer-panels/landing-page-panel.php:3352
+#: lib/customizer-panels/landing-page-panel.php:3563
+#: lib/customizer-panels/landing-page-panel.php:3886
+msgid "Title"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:716
+msgid "Maximum number of posts per related posts (default 4)"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:731
+msgid "Mobile footer buttons options"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:743
+msgid "Display mobile footer btn"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:748
+#: lib/customizer-panels/header-panel.php:415
+msgid "No display"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:749
+msgid "Display［Share button style］"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:750
+msgid "Display［No share button style］"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:762
+msgid "Display home btn on mobile"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:776
+msgid "Icon［Home］"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:778
+#: lib/customizer-panels/content-panel.php:823
+#: lib/customizer-panels/content-panel.php:882
+#: lib/customizer-panels/content-panel.php:941
+#: lib/customizer-panels/content-panel.php:1000
+#: lib/customizer-panels/content-panel.php:1059
+#: lib/customizer-panels/content-panel.php:1118
+#: lib/customizer-panels/content-panel.php:1261
+#: lib/customizer-panels/content-panel.php:1306
+#: lib/customizer-panels/cta-panel.php:1416
+#: lib/customizer-panels/front-page-panel.php:1322
+#: lib/customizer-panels/header-panel.php:336
+#: lib/customizer-panels/header-panel.php:429
+#: lib/customizer-panels/header-panel.php:446
+#: lib/customizer-panels/landing-page-panel.php:652
+#: lib/customizer-panels/landing-page-panel.php:683
+#: lib/customizer-panels/landing-page-panel.php:895
+#: lib/customizer-panels/landing-page-panel.php:967
+#: lib/customizer-panels/landing-page-panel.php:1039
+#: lib/customizer-panels/landing-page-panel.php:3077
+#: lib/customizer-panels/landing-page-panel.php:3337
+#: lib/customizer-panels/landing-page-panel.php:4047
+#: lib/customizer-panels/landing-page-panel.php:4094
+#: lib/customizer-panels/landing-page-panel.php:4141
+msgid "Font Awesome Icon Click"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:779
+#: lib/customizer-panels/content-panel.php:824
+#: lib/customizer-panels/content-panel.php:883
+#: lib/customizer-panels/content-panel.php:942
+#: lib/customizer-panels/content-panel.php:1001
+#: lib/customizer-panels/content-panel.php:1060
+#: lib/customizer-panels/content-panel.php:1119
+#: lib/customizer-panels/content-panel.php:1262
+#: lib/customizer-panels/content-panel.php:1307
+#: lib/customizer-panels/cta-panel.php:1417
+#: lib/customizer-panels/front-page-panel.php:1323
+#: lib/customizer-panels/header-panel.php:337
+#: lib/customizer-panels/header-panel.php:430
+#: lib/customizer-panels/header-panel.php:447
+#: lib/customizer-panels/landing-page-panel.php:653
+#: lib/customizer-panels/landing-page-panel.php:684
+#: lib/customizer-panels/landing-page-panel.php:896
+#: lib/customizer-panels/landing-page-panel.php:968
+#: lib/customizer-panels/landing-page-panel.php:1040
+#: lib/customizer-panels/landing-page-panel.php:1206
+#: lib/customizer-panels/landing-page-panel.php:1279
+#: lib/customizer-panels/landing-page-panel.php:2607
+#: lib/customizer-panels/landing-page-panel.php:2666
+#: lib/customizer-panels/landing-page-panel.php:2725
+#: lib/customizer-panels/landing-page-panel.php:3078
+#: lib/customizer-panels/landing-page-panel.php:3338
+#: lib/customizer-panels/landing-page-panel.php:4048
+#: lib/customizer-panels/landing-page-panel.php:4095
+#: lib/customizer-panels/landing-page-panel.php:4142
+msgid "here"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:788
+#: lib/modules/components/mobile-footer-buttons.php:13
+msgid "Home"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:793
+msgid "Text［Home］"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:807
+msgid "Display tel btn on mobile"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:821
+msgid "Icon［Tel］"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:833
+#: lib/modules/components/mobile-footer-buttons.php:17
+msgid "Tel"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:838
+msgid "Text［Tel］"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:852
+msgid "Tel number text"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:866
+msgid "Display btn［Free 1］"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:880
+msgid "Icon［Free 1］"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:897
+msgid "Text［Free 1］"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:911
+msgid "URL［Free 1］"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:925
+msgid "Display btn［Free 2］"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:939
+msgid "Icon［Free 2］"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:956
+msgid "Text［Free 2］"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:970
+msgid "URL［Free 2］"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:984
+msgid "Display btn［Free 3］"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:998
+msgid "Icon［Free 3］"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:1015
+msgid "Text［Free 3］"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:1029
+msgid "URL［Free 3］"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:1043
+msgid "Display follow btn on mobile"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:1057
+msgid "Icon［Follow］"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:1074
+msgid "Modal Window Title［Follow］"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:1083
+#: lib/modules/components/mobile-footer-buttons.php:37
+msgid "Follow"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:1088
+msgid "Text［Follow］"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:1102
+msgid "Display share btn on mobile"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:1116
+msgid "Icon［Share］"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:1128
+#: lib/modules/components/mobile-footer-buttons-modal-window.php:11
+msgid "To share"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:1133
+msgid "Modal Window Title［Share］"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:1142
+msgid "Share "
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:1147
+msgid "Text［Share］"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:1161
+msgid "Display twitter btn on mobile"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:1175
+msgid "Display facebook btn on mobile"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:1189
+msgid "Display hatena btn on mobile"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:1203
+msgid "Display google+ btn on mobile"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:1217
+msgid "Display pocket btn on mobile"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:1231
+msgid "Display search btn on mobile"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:1240
+#: lib/modules/components/mobile-footer-buttons-modal-window.php:13
+msgid "Search this site"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:1245
+msgid "Modal Window Title［Search］"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:1259
+msgid "Icon［Search］"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:1271
+msgid "Search "
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:1276
+msgid "Text［Search］"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:1290
+msgid "Display page top btn on mobile"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:1304
+msgid "Icon［Top］"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:1316
+#: lib/modules/components/mobile-footer-buttons.php:55
+msgid "Top"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:1321
+msgid "Text［Top］"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:1335
+#: lib/customizer-panels/header-panel.php:461
+#: lib/customizer-panels/landing-page-panel.php:393
+#: lib/customizer-panels/landing-page-panel.php:763
+#: lib/customizer-panels/landing-page-panel.php:1120
+#: lib/customizer-panels/landing-page-panel.php:2876
+#: lib/customizer-panels/landing-page-panel.php:3157
+#: lib/customizer-panels/landing-page-panel.php:3448
+msgid "Icon color"
+msgstr ""
+
+#: lib/customizer-panels/content-panel.php:1348
+#: lib/customizer-panels/cta-panel.php:1187
+#: lib/customizer-panels/header-panel.php:474
+#: lib/customizer-panels/landing-page-panel.php:750
+#: lib/customizer-panels/landing-page-panel.php:1107
+#: lib/customizer-panels/landing-page-panel.php:1360
+#: lib/customizer-panels/landing-page-panel.php:1785
+#: lib/customizer-panels/landing-page-panel.php:2501
+#: lib/customizer-panels/landing-page-panel.php:2863
+#: lib/customizer-panels/landing-page-panel.php:3144
+#: lib/customizer-panels/landing-page-panel.php:3487
+#: lib/customizer-panels/landing-page-panel.php:3791
+#: lib/customizer-panels/landing-page-panel.php:3953
+msgid "Text color"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:15 lib/theme-setup.php:38
+msgid "CTA settings"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:22
+msgid "Display cta option"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:34
+msgid "Display single cta"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:48
+msgid "Display page cta"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:62
+msgid "Display footer cta on front page"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:76
+msgid "Display footer cta on page & single"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:90
+msgid "Display footer cta on archive"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:104
+msgid "Display popup cta on front page"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:118
+msgid "Display popup cta on single"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:132
+msgid "Display popup cta on page"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:146
+msgid "Display popup cta on archive"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:160
+msgid "Display popup cta on smartphone & tablet"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:171
+msgid "Calls to action for common option"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:183
+#: lib/customizer-panels/cta-panel.php:358
+#: lib/customizer-panels/cta-panel.php:533
+#: lib/customizer-panels/cta-panel.php:708
+#: lib/customizer-panels/cta-panel.php:883
+#: lib/customizer-panels/cta-panel.php:1235
+msgid "CTA layout type"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:188
+#: lib/customizer-panels/cta-panel.php:363
+#: lib/customizer-panels/cta-panel.php:538
+#: lib/customizer-panels/cta-panel.php:713
+#: lib/customizer-panels/cta-panel.php:888
+#: lib/customizer-panels/cta-panel.php:1240
+msgid "CTA left layout"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:189
+#: lib/customizer-panels/cta-panel.php:364
+#: lib/customizer-panels/cta-panel.php:539
+#: lib/customizer-panels/cta-panel.php:714
+#: lib/customizer-panels/cta-panel.php:889
+#: lib/customizer-panels/cta-panel.php:1241
+msgid "CTA center layout"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:190
+#: lib/customizer-panels/cta-panel.php:365
+#: lib/customizer-panels/cta-panel.php:540
+#: lib/customizer-panels/cta-panel.php:715
+#: lib/customizer-panels/cta-panel.php:890
+#: lib/customizer-panels/cta-panel.php:1242
+msgid "CTA right layout"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:201
+#: lib/customizer-panels/cta-panel.php:376
+#: lib/customizer-panels/cta-panel.php:551
+#: lib/customizer-panels/cta-panel.php:726
+#: lib/customizer-panels/cta-panel.php:901
+#: lib/customizer-panels/cta-panel.php:1253
+msgid "CTA image"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:214
+#: lib/customizer-panels/cta-panel.php:389
+#: lib/customizer-panels/cta-panel.php:564
+#: lib/customizer-panels/cta-panel.php:739
+#: lib/customizer-panels/cta-panel.php:914
+msgid "CTA title"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:228
+#: lib/customizer-panels/cta-panel.php:403
+#: lib/customizer-panels/cta-panel.php:578
+#: lib/customizer-panels/cta-panel.php:753
+#: lib/customizer-panels/cta-panel.php:928
+#: lib/customizer-panels/cta-panel.php:1132
+#: lib/customizer-panels/cta-panel.php:1280
+#: lib/customizer-panels/header-panel.php:365
+#: lib/customizer-panels/landing-page-panel.php:365
+msgid "CTA text"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:241
+#: lib/customizer-panels/cta-panel.php:416
+#: lib/customizer-panels/cta-panel.php:591
+#: lib/customizer-panels/cta-panel.php:766
+#: lib/customizer-panels/cta-panel.php:941
+#: lib/customizer-panels/cta-panel.php:1146
+#: lib/customizer-panels/cta-panel.php:1293
+#: lib/customizer-panels/header-panel.php:393
+msgid "CTA button url"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:255
+#: lib/customizer-panels/cta-panel.php:430
+#: lib/customizer-panels/cta-panel.php:605
+#: lib/customizer-panels/cta-panel.php:780
+#: lib/customizer-panels/cta-panel.php:955
+#: lib/customizer-panels/cta-panel.php:1160
+#: lib/customizer-panels/cta-panel.php:1307
+msgid "CTA button text"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:269
+#: lib/customizer-panels/cta-panel.php:444
+#: lib/customizer-panels/cta-panel.php:619
+#: lib/customizer-panels/cta-panel.php:794
+#: lib/customizer-panels/cta-panel.php:969
+#: lib/customizer-panels/cta-panel.php:1321
+msgid "CTA Contact Form7"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:270
+#: lib/customizer-panels/cta-panel.php:445
+#: lib/customizer-panels/cta-panel.php:620
+#: lib/customizer-panels/cta-panel.php:795
+#: lib/customizer-panels/cta-panel.php:970
+#: lib/customizer-panels/cta-panel.php:1322
+#: lib/customizer-panels/landing-page-panel.php:3408
+#: lib/theme-admin-options.php:533
+msgid "Input short code example [contact-form-7 id=\"XXXX\" title=\"XXXXX\"]"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:284
+#: lib/customizer-panels/cta-panel.php:459
+#: lib/customizer-panels/cta-panel.php:634
+#: lib/customizer-panels/cta-panel.php:809
+#: lib/customizer-panels/cta-panel.php:984
+#: lib/customizer-panels/cta-panel.php:1336
+msgid "CTA background color"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:297
+#: lib/customizer-panels/cta-panel.php:472
+#: lib/customizer-panels/cta-panel.php:647
+#: lib/customizer-panels/cta-panel.php:822
+#: lib/customizer-panels/cta-panel.php:997
+#: lib/customizer-panels/cta-panel.php:1362
+msgid "CTA title color"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:310
+#: lib/customizer-panels/cta-panel.php:485
+#: lib/customizer-panels/cta-panel.php:660
+#: lib/customizer-panels/cta-panel.php:835
+#: lib/customizer-panels/cta-panel.php:1010
+#: lib/customizer-panels/cta-panel.php:1375
+msgid "CTA text color"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:323
+#: lib/customizer-panels/cta-panel.php:498
+#: lib/customizer-panels/cta-panel.php:673
+#: lib/customizer-panels/cta-panel.php:848
+#: lib/customizer-panels/cta-panel.php:1023
+#: lib/customizer-panels/cta-panel.php:1388
+msgid "CTA button background color"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:336
+#: lib/customizer-panels/cta-panel.php:511
+#: lib/customizer-panels/cta-panel.php:686
+#: lib/customizer-panels/cta-panel.php:861
+#: lib/customizer-panels/cta-panel.php:1036
+#: lib/customizer-panels/cta-panel.php:1401
+msgid "CTA button text color"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:346
+msgid "Calls to action for potential option"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:521
+msgid "Calls to action for eventually option"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:696
+msgid "Calls to action for compare option"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:871
+msgid "Calls to action for prospect option"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:1046
+msgid "CTA footer section settings"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:1058
+msgid "CTA title(logo alt)"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:1072
+msgid "Footer title url(logo url)"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:1086
+msgid "Display footer logo"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:1099
+msgid "Footer logo height (default 46px)"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:1118
+#: lib/customizer-panels/header-panel.php:351
+msgid "CTA tell"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:1200
+#: lib/customizer-panels/front-page-panel.php:1403
+#: lib/customizer-panels/front-page-panel.php:1712
+#: lib/customizer-panels/general-panel.php:518
+#: lib/customizer-panels/header-panel.php:487
+#: lib/customizer-panels/landing-page-panel.php:190
+#: lib/customizer-panels/landing-page-panel.php:406
+#: lib/customizer-panels/landing-page-panel.php:1373
+#: lib/customizer-panels/landing-page-panel.php:3500
+#: lib/customizer-panels/landing-page-panel.php:3966
+msgid "Button background color"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:1213
+#: lib/customizer-panels/front-page-panel.php:1416
+#: lib/customizer-panels/front-page-panel.php:1725
+#: lib/customizer-panels/general-panel.php:531
+#: lib/customizer-panels/header-panel.php:500
+#: lib/customizer-panels/landing-page-panel.php:203
+#: lib/customizer-panels/landing-page-panel.php:419
+#: lib/customizer-panels/landing-page-panel.php:1386
+#: lib/customizer-panels/landing-page-panel.php:3513
+#: lib/customizer-panels/landing-page-panel.php:3979
+msgid "Button text color"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:1223
+msgid "Calls to action popup option"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:1266
+msgid "CTA title (Max：18)"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:1349
+msgid "CTA title header color"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:1414
+msgid "PopUp mobile icon"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:1431
+msgid "PopUp mobile icon background color"
+msgstr ""
+
+#: lib/customizer-panels/cta-panel.php:1444
+msgid "PopUp mobile icon text color"
+msgstr ""
+
+#: lib/customizer-panels/footer-panel.php:15 lib/theme-setup.php:35
+msgid "Footer settings"
+msgstr ""
+
+#: lib/customizer-panels/footer-panel.php:22
+#: lib/customizer-panels/header-panel.php:22
+msgid "Layout design"
+msgstr ""
+
+#: lib/customizer-panels/footer-panel.php:34
+msgid "Display top page btn［PC］"
+msgstr ""
+
+#: lib/customizer-panels/footer-panel.php:48
+msgid "Display top page btn［SP］"
+msgstr ""
+
+#: lib/customizer-panels/footer-panel.php:62
+msgid "Display SNS follow botton in footer"
+msgstr ""
+
+#: lib/customizer-panels/footer-panel.php:76
+msgid "Footer top background color"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:15 lib/theme-setup.php:36
+msgid "Front page settings"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:22
+msgid "First View layout settings"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:34
+msgid "First View layout type"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:39
+msgid "No display firstview"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:40
+msgid "Slider"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:41
+msgid "Slider Content"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:42
+msgid "Featured"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:43
+msgid "Page box"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:44
+msgid "Video"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:45
+msgid "Eye catch"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:54
+msgid "Slider section settings"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:55
+#: lib/customizer-panels/front-page-panel.php:604
+#: lib/customizer-panels/front-page-panel.php:964
+#: lib/customizer-panels/front-page-panel.php:1124
+#: lib/customizer-panels/front-page-panel.php:1218
+#: lib/customizer-panels/front-page-panel.php:1518
+msgid "To display the section, you need to set the first view layout."
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:62
+#: lib/customizer-panels/front-page-panel.php:1260
+#: lib/customizer-panels/front-page-panel.php:1569
+msgid "Welcome to Emanon"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:67
+#: lib/customizer-panels/landing-page-panel.php:852
+#: lib/customizer-panels/landing-page-panel.php:1500
+#: lib/customizer-panels/landing-page-panel.php:2145
+#: lib/customizer-panels/landing-page-panel.php:4015
+msgid "Title[1]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:76
+#: lib/customizer-panels/front-page-panel.php:1274
+#: lib/customizer-panels/front-page-panel.php:1582
+#: lib/customizer-panels/landing-page-panel.php:117
+msgid "Ready to Start Your Own Business?"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:81
+msgid "Sub title[1]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:94
+msgid "Slider image[1]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:95
+#: lib/customizer-panels/front-page-panel.php:136
+#: lib/customizer-panels/front-page-panel.php:177
+#: lib/customizer-panels/front-page-panel.php:218
+#: lib/customizer-panels/front-page-panel.php:259
+msgid "Image size recommended width 1920px height 500px."
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:108
+#: lib/customizer-panels/landing-page-panel.php:924
+#: lib/customizer-panels/landing-page-panel.php:1541
+#: lib/customizer-panels/landing-page-panel.php:2201
+#: lib/customizer-panels/landing-page-panel.php:4063
+msgid "Title[2]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:122
+msgid "Sub title[2]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:135
+msgid "Slider image[2]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:149
+#: lib/customizer-panels/landing-page-panel.php:996
+#: lib/customizer-panels/landing-page-panel.php:1582
+#: lib/customizer-panels/landing-page-panel.php:2256
+#: lib/customizer-panels/landing-page-panel.php:4110
+msgid "Title[3]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:163
+msgid "Sub title[3]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:176
+msgid "Slider image[3]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:190
+#: lib/customizer-panels/landing-page-panel.php:1623
+#: lib/customizer-panels/landing-page-panel.php:2311
+msgid "Title[4]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:204
+msgid "Sub title[4]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:217
+msgid "Slider image[4]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:231
+#: lib/customizer-panels/landing-page-panel.php:1664
+#: lib/customizer-panels/landing-page-panel.php:2366
+msgid "Title[5]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:245
+msgid "Sub title[5]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:258
+msgid "Slider image[5]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:272
+#: lib/customizer-panels/front-page-panel.php:1292
+#: lib/customizer-panels/front-page-panel.php:1627
+msgid "Button url"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:286
+#: lib/customizer-panels/front-page-panel.php:1306
+#: lib/customizer-panels/front-page-panel.php:1641
+#: lib/customizer-panels/header-panel.php:379
+#: lib/customizer-panels/landing-page-panel.php:136
+#: lib/customizer-panels/landing-page-panel.php:379
+msgid "Button text"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:300
+msgid "Slider message layout type"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:305
+msgid "Slider message left layout"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:306
+msgid "Slider message center layout"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:307
+msgid "Slider message right layout"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:319
+msgid "Slider image height (default 500px)"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:338
+#: lib/customizer-panels/front-page-panel.php:785
+msgid "Slider speed (default 4000)"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:354
+#: lib/customizer-panels/front-page-panel.php:801
+msgid "Slider animation type"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:359
+#: lib/customizer-panels/front-page-panel.php:433
+#: lib/customizer-panels/front-page-panel.php:806
+msgid "Fade"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:360
+#: lib/customizer-panels/front-page-panel.php:434
+#: lib/customizer-panels/front-page-panel.php:807
+msgid "Slide"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:372
+#: lib/customizer-panels/front-page-panel.php:819
+msgid "Auto slider animation"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:386
+#: lib/customizer-panels/front-page-panel.php:833
+msgid "Display slider controls"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:400
+#: lib/customizer-panels/front-page-panel.php:847
+msgid "Display slider pager"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:414
+msgid "Stop text animation"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:428
+msgid "Slider text animation type"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:446
+msgid "Slider text speed (default 4000)"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:462
+#: lib/customizer-panels/front-page-panel.php:861
+#: lib/customizer-panels/front-page-panel.php:1363
+#: lib/customizer-panels/front-page-panel.php:1672
+#: lib/customizer-panels/landing-page-panel.php:150
+msgid "Text shadow"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:476
+#: lib/customizer-panels/front-page-panel.php:1377
+#: lib/customizer-panels/front-page-panel.php:1686
+msgid "Title colors"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:489
+#: lib/customizer-panels/front-page-panel.php:1390
+#: lib/customizer-panels/front-page-panel.php:1699
+#: lib/customizer-panels/landing-page-panel.php:177
+#: lib/customizer-panels/landing-page-panel.php:724
+#: lib/customizer-panels/landing-page-panel.php:1094
+#: lib/customizer-panels/landing-page-panel.php:1759
+#: lib/customizer-panels/landing-page-panel.php:2001
+#: lib/customizer-panels/landing-page-panel.php:2488
+#: lib/customizer-panels/landing-page-panel.php:2850
+#: lib/customizer-panels/landing-page-panel.php:3118
+#: lib/customizer-panels/landing-page-panel.php:3474
+#: lib/customizer-panels/landing-page-panel.php:3778
+msgid "Sub title color"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:502
+msgid "Slider button background color"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:515
+msgid "Slider button text color"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:528
+#: lib/customizer-panels/front-page-panel.php:888
+#: lib/customizer-panels/front-page-panel.php:1442
+#: lib/customizer-panels/front-page-panel.php:1738
+msgid "Background color［start］"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:541
+#: lib/customizer-panels/front-page-panel.php:901
+#: lib/customizer-panels/front-page-panel.php:1455
+#: lib/customizer-panels/front-page-panel.php:1751
+msgid "Background color［end］"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:554
+#: lib/customizer-panels/front-page-panel.php:914
+#: lib/customizer-panels/front-page-panel.php:1468
+#: lib/customizer-panels/front-page-panel.php:1764
+#: lib/customizer-panels/landing-page-panel.php:242
+#: lib/customizer-panels/landing-page-panel.php:3260
+msgid "Degree"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:568
+#: lib/customizer-panels/front-page-panel.php:928
+#: lib/customizer-panels/front-page-panel.php:1107
+#: lib/customizer-panels/front-page-panel.php:1501
+msgid "Display overlay pattern"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:573
+#: lib/customizer-panels/front-page-panel.php:933
+#: lib/customizer-panels/front-page-panel.php:1112
+#: lib/customizer-panels/front-page-panel.php:1506
+#: lib/customizer-panels/front-page-panel.php:1783
+#: lib/customizer-panels/landing-page-panel.php:261
+#: lib/customizer-panels/landing-page-panel.php:3279
+msgid "None display pattern"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:574
+#: lib/customizer-panels/front-page-panel.php:934
+#: lib/customizer-panels/front-page-panel.php:1113
+#: lib/customizer-panels/front-page-panel.php:1507
+#: lib/customizer-panels/front-page-panel.php:1784
+#: lib/customizer-panels/landing-page-panel.php:262
+#: lib/customizer-panels/landing-page-panel.php:3280
+msgid "Display display pattern dots"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:575
+#: lib/customizer-panels/front-page-panel.php:935
+#: lib/customizer-panels/front-page-panel.php:1114
+#: lib/customizer-panels/front-page-panel.php:1508
+#: lib/customizer-panels/front-page-panel.php:1785
+#: lib/customizer-panels/landing-page-panel.php:263
+#: lib/customizer-panels/landing-page-panel.php:3281
+msgid "Display pattern diamond"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:587
+#: lib/customizer-panels/front-page-panel.php:947
+#: lib/customizer-panels/front-page-panel.php:1482
+msgid "Header background color opacity"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:603
+msgid "Slider content section settings"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:616
+#: lib/customizer-panels/front-page-panel.php:994
+msgid "Featured display type"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:621
+#: lib/customizer-panels/front-page-panel.php:999
+msgid "Display New arrivals"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:622
+#: lib/customizer-panels/front-page-panel.php:1000
+msgid "Display Featured"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:623
+msgid "Display Category (Selected id)"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:635
+msgid "Category id"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:636
+msgid "When the display type is category, please enter category id."
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:650
+#: lib/customizer-panels/front-page-panel.php:1012
+msgid "Number of entry (default 3)"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:747
+#: lib/modules/components/read-more.php:16
+#: lib/modules/sections/section-top-slider-content.php:17
+msgid "Read More"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:752
+#: lib/customizer-panels/template-panel.php:322
+msgid "Display read more"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:766
+msgid "Slider Content height (default 500px)"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:875
+msgid "Text colors"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:963
+msgid "Featured section settings"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:976
+msgid "Featured article type"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:981
+msgid "Display post"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:982
+msgid "Display page"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1025
+#: lib/modules/sections/section-top-featured.php:8
+msgid "PICK UP"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1030
+msgid "Section label"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1044
+msgid "Featured background color"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1057
+msgid "Featured background image"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1058
+msgid "Image size recommended width 1920px height 400px."
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1071
+msgid "Featured background image opacity"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1090
+msgid "Featured background image blur (default 0)"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1123
+msgid "Page box section settings"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1137
+msgid "Select page for list one"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1151
+msgid "Page description for list one"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1165
+msgid "Select page for list two"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1179
+msgid "Page description for list two"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1193
+msgid "Select page for list three"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1207
+msgid "Page description for list three"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1217
+msgid "Video section settings"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1230
+msgid "Header Movie MP4"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1231
+msgid "Upload your video in mp4 format"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1236
+#: lib/customizer-panels/front-page-panel.php:1239
+msgid "Select Video"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1237
+msgid "Change Video"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1238
+msgid "No video selected"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1240
+msgid "Choose Video"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1252
+msgid "Substitution image"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1279
+#: lib/customizer-panels/front-page-panel.php:1587
+#: lib/customizer-panels/landing-page-panel.php:122
+#: lib/customizer-panels/landing-page-panel.php:553
+#: lib/customizer-panels/landing-page-panel.php:839
+#: lib/customizer-panels/landing-page-panel.php:1473
+#: lib/customizer-panels/landing-page-panel.php:1835
+#: lib/customizer-panels/landing-page-panel.php:2117
+#: lib/customizer-panels/landing-page-panel.php:3366
+#: lib/customizer-panels/landing-page-panel.php:3577
+msgid "Sub title"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1320
+msgid "Down icon"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1337
+#: lib/customizer-panels/header-panel.php:258
+msgid "Header tagline text color"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1350
+#: lib/customizer-panels/header-panel.php:271
+msgid "Header site title color"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1429
+msgid "Down icon color"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1517
+msgid "Eye catch section settings"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1530
+msgid "Reverse layout"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1531
+msgid "Position of image and text can be reversed left and right."
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1545
+msgid "Eye catch image"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1546
+msgid "Image size recommended width 500px."
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1559
+msgid "Display eye catch image［SP］"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1560
+msgid "When you look at the site from the smartphone, eye catch images are displayed."
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1600
+msgid "PC background image"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1613
+#: lib/customizer-panels/header-panel.php:193
+#: lib/customizer-panels/landing-page-panel.php:42
+msgid "Mobile background image"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1614
+#: lib/customizer-panels/header-panel.php:194
+#: lib/customizer-panels/landing-page-panel.php:43
+msgid "It is used when you want to change the image as seen from a smartphone or tablet."
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1655
+msgid "Padding (default 64px)"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1778
+#: lib/customizer-panels/landing-page-panel.php:256
+#: lib/customizer-panels/landing-page-panel.php:3274
+msgid "Dsplay overlay pattern"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1797
+#: lib/customizer-panels/landing-page-panel.php:275
+msgid "Background color opacity"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1813
+msgid "Entry section settings"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1825
+msgid "Display Entry section"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1839
+msgid "Entry section title"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1853
+msgid "Entry section title h type"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1854
+msgid "It is also reflected in the h tag of the archive article list (category page and author page)."
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:15 lib/theme-setup.php:32
+msgid "General settings"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:22
+msgid "Header meta tage"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:34
+msgid "Active meta tage settings"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:35
+msgid "When disabled, automatic output of the meta tag stops. SEO setting function is turns off."
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:49
+msgid "Meta keywords"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:50
+msgid "Meta keywords set of front page (optional)."
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:64
+msgid "Meta description"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:65
+msgid "Meta description set of front page (optional)."
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:75
+msgid "Facebook OGP"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:87
+msgid "Display facebook opg meta tag"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:101
+msgid "Facebook application id"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:115
+msgid "Facebook OGP image"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:125
+msgid "Twitter card"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:137
+msgid "Display twitter cards meta tag"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:151
+msgid "Twitter card type"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:156
+msgid "Summary"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:157
+msgid "Summary large image"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:169
+msgid "Twitter id"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:170
+msgid "Enter the ID including @ mark."
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:184
+msgid "Twitter OGP image"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:194
+msgid "Google tracking tag"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:206
+msgid "Google analytics tracking ID"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:207
+msgid "Input example UA-XXXXXXXX-XX"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:221
+msgid "Google tag manager container ID"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:222
+msgid "Input example GTM-XXXXXXX"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:233
+msgid "Insert code before </head> and </body>"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:234
+msgid "Insert JavaScript"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:245
+msgid "</head> Code to insert just before"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:257
+msgid "</body> Code to insert just before"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:267
+msgid "SNS follow url"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:279
+msgid "Twitter profile url"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:293
+msgid "Facebooke profile url"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:307
+msgid "GooglePlus profile url"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:321
+msgid "Instagram profile url"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:335
+msgid "RSS feed (default is the wordpress feed)"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:346
+msgid "Animation settings"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:358
+msgid "Stop animation style"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:359
+msgid "Stop the animation function of the web site."
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:373
+msgid "Stop mobile animation style"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:374
+msgid "Stop the animation function of the web site in mobile."
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:385
+#: lib/customizer-panels/general-panel.php:397
+msgid "Add QTags button"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:398
+msgid "Add Qtags buttons in text (HTML) mode of WordPress editor."
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:415
+msgid "Color Scheme"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:420
+msgid "Default color"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:421 lib/theme-customizer.php:134
+msgid "Color scheme of black"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:422 lib/theme-customizer.php:135
+msgid "Color scheme of gray"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:423 lib/theme-customizer.php:136
+msgid "Color scheme of red"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:424 lib/theme-customizer.php:137
+msgid "Color scheme of orange"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:425 lib/theme-customizer.php:138
+msgid "Color scheme of pink"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:426 lib/theme-customizer.php:139
+msgid "Color scheme of blue"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:427 lib/theme-customizer.php:140
+msgid "Color scheme of green"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:428 lib/theme-customizer.php:141
+msgid "Color scheme of purple"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:440
+msgid "Main color"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:453
+msgid "Link color"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:466
+msgid "Link hover"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:479
+msgid "Footer background color"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:492
+msgid "Footer text color"
+msgstr ""
+
+#: lib/customizer-panels/general-panel.php:505
+msgid "Footer link hover"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:15 lib/theme-setup.php:33
+msgid "Header settings"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:34
+msgid "Header layout type"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:39
+msgid "Header default layout"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:40
+msgid "Header center layout"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:41
+msgid "Header line layout"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:53
+msgid "Description position type"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:58
+msgid "Upper left"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:59
+msgid "Logo under"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:60
+msgid "No display description"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:72
+msgid "Description font size under logo"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:73
+msgid "default 12 : This setting is applied when the description position is below the logo."
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:91
+msgid "Site namen font size : PC"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:92
+msgid "Default 24 : This setting is applied when no logo img."
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:110
+msgid "Site namen font size : Mobile"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:111
+msgid "Default 16 :This setting is applied when no logo img."
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:129
+msgid "Display header logo"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:142
+msgid "Header logo height (max 96px)"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:161
+msgid "Header logo height for mobile (max 60px)"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:180
+msgid "Header background image"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:207
+msgid "Header area height:PC"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:208
+#: lib/customizer-panels/header-panel.php:227
+msgid "Default 96 : Only header default layout and header center layout."
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:226
+msgid "Header area height:Mobile"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:245
+msgid "Header tagline background color"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:284
+msgid "Header background color"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:297
+msgid "Nav color (Only line layout)"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:307
+#: lib/customizer-panels/landing-page-panel.php:291
+msgid "Header cta settings"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:319
+#: lib/customizer-panels/landing-page-panel.php:304
+msgid "Display header cta"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:320
+msgid "In case of header default layout, header cta is displayed."
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:334
+msgid "Tel icon［PC］"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:407
+msgid "Display cta type［SP］"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:412
+#: lib/customizer-panels/landing-page-panel.php:1190
+msgid "Tel only"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:413
+#: lib/customizer-panels/landing-page-panel.php:1189
+msgid "Mail only"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:414
+#: lib/customizer-panels/landing-page-panel.php:1191
+msgid "Tel ＆ Mail"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:427
+msgid "Tel icon［SP］"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:444
+msgid "Mail icon［SP］"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:510
+msgid "Global nav"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:522
+msgid "Global nav design type"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:527
+#: lib/customizer-panels/landing-page-panel.php:324
+msgid "Default type"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:528
+#: lib/customizer-panels/landing-page-panel.php:325
+msgid "Scroll tracking type"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:540
+msgid "Site name: Position Fixed"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:541
+msgid "Default 16:This setting is applied when no logo img."
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:559
+msgid "Logo Height: Position Fixed (Max : 40)"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:578
+msgid "Tracking header background color"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:591
+msgid "Tracking header font color"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:604
+#: lib/customizer-panels/landing-page-panel.php:470
+msgid "Display mobile nav"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:618
+#: lib/customizer-panels/landing-page-panel.php:484
+msgid "Display mobile nav scroll arrow"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:632
+msgid "Hamburger menu text (default : Menu)"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:646
+msgid "Hamburger menu text color"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:659
+msgid "Hamburger menu color"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:672
+msgid "Modal global nav background color"
+msgstr ""
+
+#: lib/customizer-panels/header-panel.php:685
+msgid "Modal global nav font color"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:15 lib/theme-setup.php:39
+msgid "Landing page settings"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:28
+msgid "Display header section"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:56
+msgid "Header image height (default 500px)"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:75
+msgid "Header message layout type"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:80
+msgid "Message left layout"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:81
+msgid "Message center layout"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:82
+msgid "Message right layout"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:89
+msgid "Looking for SEO WordPress theme?"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:94
+msgid "Target message"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:103
+msgid "Welcome to Emanon Pro"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:164
+#: lib/customizer-panels/landing-page-panel.php:711
+#: lib/customizer-panels/landing-page-panel.php:1081
+#: lib/customizer-panels/landing-page-panel.php:1347
+#: lib/customizer-panels/landing-page-panel.php:1746
+#: lib/customizer-panels/landing-page-panel.php:1988
+#: lib/customizer-panels/landing-page-panel.php:2475
+#: lib/customizer-panels/landing-page-panel.php:2837
+#: lib/customizer-panels/landing-page-panel.php:3105
+#: lib/customizer-panels/landing-page-panel.php:3221
+#: lib/customizer-panels/landing-page-panel.php:3461
+#: lib/customizer-panels/landing-page-panel.php:3765
+#: lib/customizer-panels/landing-page-panel.php:3940
+msgid "Title color"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:216
+#: lib/customizer-panels/landing-page-panel.php:3234
+msgid "Background color ［start］"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:229
+#: lib/customizer-panels/landing-page-panel.php:3247
+msgid "Background color ［end］"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:292
+#: lib/customizer-panels/landing-page-panel.php:430
+msgid "To display the section, you need to set header image."
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:305
+msgid "Please display header cta logo by header setting"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:319
+msgid "LP header cta type type"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:337
+msgid "Header description"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:351
+msgid "CTA tel"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:429
+msgid "Header gloval nav section settings"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:442
+msgid "Display gloval nav"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:456
+msgid "Display hanger menu"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:495
+msgid "Empathy section settings"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:507
+msgid "Display empathy section"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:521
+msgid "Empathy layout type"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:526
+msgid "Default layout"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:527
+msgid "Image layout"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:566
+msgid "Trouble[1]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:580
+msgid "Trouble[2]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:594
+msgid "Trouble[3]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:608
+msgid "Trouble[4]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:622
+msgid "Trouble[5]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:636
+msgid "Trouble[6]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:650
+msgid "Trouble list icon"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:667
+#: lib/customizer-panels/landing-page-panel.php:3193
+#: lib/customizer-panels/landing-page-panel.php:3872
+msgid "Image"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:668
+#: lib/customizer-panels/landing-page-panel.php:911
+#: lib/customizer-panels/landing-page-panel.php:983
+#: lib/customizer-panels/landing-page-panel.php:1055
+#: lib/customizer-panels/landing-page-panel.php:2174
+#: lib/customizer-panels/landing-page-panel.php:2229
+#: lib/customizer-panels/landing-page-panel.php:2284
+#: lib/customizer-panels/landing-page-panel.php:2339
+#: lib/customizer-panels/landing-page-panel.php:2394
+#: lib/customizer-panels/landing-page-panel.php:2449
+msgid "The minimum size of the image is the width 90px height 90px."
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:681
+msgid "Scroll down icon"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:737
+#: lib/customizer-panels/landing-page-panel.php:2066
+#: lib/customizer-panels/landing-page-panel.php:3131
+msgid "Text box background color"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:776
+msgid "Scroll down background color"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:789
+msgid "Scroll down icon color"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:799
+msgid "Advantage section settings"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:811
+msgid "Display advantage section"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:866
+#: lib/customizer-panels/landing-page-panel.php:1514
+msgid "Description[1]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:879
+#: lib/customizer-panels/landing-page-panel.php:4030
+msgid "url[1]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:893
+#: lib/customizer-panels/landing-page-panel.php:2604
+#: lib/customizer-panels/landing-page-panel.php:4045
+msgid "Icon[1]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:910
+#: lib/customizer-panels/landing-page-panel.php:1487
+#: lib/customizer-panels/landing-page-panel.php:2173
+#: lib/customizer-panels/landing-page-panel.php:2621
+msgid "Image[1]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:938
+#: lib/customizer-panels/landing-page-panel.php:1555
+msgid "Description[2]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:951
+#: lib/customizer-panels/landing-page-panel.php:4078
+msgid "url[2]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:965
+#: lib/customizer-panels/landing-page-panel.php:2663
+#: lib/customizer-panels/landing-page-panel.php:4092
+msgid "Icon[2]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:982
+#: lib/customizer-panels/landing-page-panel.php:1528
+#: lib/customizer-panels/landing-page-panel.php:2228
+#: lib/customizer-panels/landing-page-panel.php:2680
+msgid "Image[2]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1010
+#: lib/customizer-panels/landing-page-panel.php:1596
+msgid "Description[3]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1023
+#: lib/customizer-panels/landing-page-panel.php:4125
+msgid "url[3]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1037
+#: lib/customizer-panels/landing-page-panel.php:2722
+#: lib/customizer-panels/landing-page-panel.php:4139
+msgid "Icon[3]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1054
+#: lib/customizer-panels/landing-page-panel.php:1569
+#: lib/customizer-panels/landing-page-panel.php:2283
+#: lib/customizer-panels/landing-page-panel.php:2739
+msgid "Image[3]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1130
+msgid "Calls to action［button］settings"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1142
+msgid "Display CTA btn for landing page［1］"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1156
+msgid "Display CTA btn for landing page［2］"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1170
+msgid "Display CTA btn for landing page［3］"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1184
+msgid "Display cta type"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1203
+msgid "Icon [Tel]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1205
+#: lib/customizer-panels/landing-page-panel.php:1278
+#: lib/customizer-panels/landing-page-panel.php:2606
+#: lib/customizer-panels/landing-page-panel.php:2665
+#: lib/customizer-panels/landing-page-panel.php:2724
+msgid "Fontawesome Icon Click"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1220
+msgid "Title [Tel]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1234
+msgid "Description [Tel]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1248
+msgid "Tel number"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1262
+msgid "Business hours"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1276
+msgid "Icon [Mail]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1293
+msgid "Title [Mail]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1307
+msgid "Description [Mail]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1320
+msgid "Button text [Mail]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1396
+msgid "Content section settings"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1397
+msgid "Display the contents of the fixed page."
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1409
+msgid "Display content section"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1433
+msgid "Product Features settings"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1445
+msgid "Display product features section"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1610
+#: lib/customizer-panels/landing-page-panel.php:2338
+msgid "Image[4]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1637
+msgid "Description[4]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1651
+#: lib/customizer-panels/landing-page-panel.php:2393
+msgid "Image[5]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1678
+msgid "Description[5]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1692
+#: lib/customizer-panels/landing-page-panel.php:2448
+msgid "Image[6]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1705
+#: lib/customizer-panels/landing-page-panel.php:2421
+msgid "Title[6]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1719
+msgid "Description[6]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1772
+msgid "Headline color"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1795
+msgid "Comparison Table section settings"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1807
+msgid "Display comparison table section"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1849
+msgid "My item"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1863
+msgid "My recommend"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1877
+msgid "My features"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1891
+msgid "Item[1]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1905
+msgid "Recommend[1]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1919
+msgid "Features[1]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1933
+msgid "Item[2]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1947
+msgid "Recommend[2]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:1961
+msgid "Features[2]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2014
+msgid "My item background color"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2027
+msgid "My item text color"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2040
+#: lib/customizer-panels/landing-page-panel.php:2889
+msgid "Item background color"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2053
+msgid "Item text color"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2076
+msgid "Testimonial section settings"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2088
+msgid "Display testimonial section"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2089
+msgid "Voice of the Customer is a minimum of two people are required."
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2131
+msgid "Name[1]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2159
+msgid "Testimonials[1]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2187
+msgid "Name[2]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2215
+msgid "Testimonials[2]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2242
+msgid "Name[3]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2270
+msgid "Testimonials[3]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2297
+msgid "Name[4]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2325
+msgid "Testimonials[4]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2352
+msgid "Name[5]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2380
+msgid "Testimonials[5]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2407
+msgid "Name[6]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2435
+msgid "Testimonials[6]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2514
+msgid "Testimonial balloon background color"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2527
+msgid "Testimonial balloon text color"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2537
+msgid "Offer section settings"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2549
+msgid "Display offer section"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2577
+#: lib/customizer-panels/landing-page-panel.php:2978
+#: lib/customizer-panels/landing-page-panel.php:3900
+msgid "Description"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2590
+msgid "Main Image"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2591
+msgid "The minimum size of the image is the width 420px."
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2622
+#: lib/customizer-panels/landing-page-panel.php:2681
+#: lib/customizer-panels/landing-page-panel.php:2740
+msgid "The minimum size of the image is the width 48px height 48px."
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2636
+msgid "Offer sub title[1]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2650
+msgid "Offer sub text[1]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2695
+msgid "Offer sub title[2]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2709
+msgid "Offer sub text[2]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2754
+msgid "Offer sub title[3]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2768
+msgid "Offer sub text[3]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2782
+msgid "Item"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2796
+msgid "Price"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2810
+msgid "Features"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2902
+msgid "Item color"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2915
+msgid "Item price background color"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2928
+msgid "Item price color"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2938
+msgid "Benefits section settings"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2950
+msgid "Display Benefits section"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:2991
+msgid "Benefits[1]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3005
+msgid "Benefits[2]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3019
+msgid "Benefits[3]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3033
+msgid "Benefits[4]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3047
+msgid "Benefits[5]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3061
+msgid "Benefits[6]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3075
+msgid "List icon"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3092
+msgid "Benefits background color"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3167
+msgid "Closing section settings"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3179
+msgid "Display closing section"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3194
+msgid "The minimum size of the image is the width 1920px height 400px."
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3293
+msgid "Closing section background color opacity"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3309
+msgid "Calls to action section［Contact Form］settings"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3321
+msgid "Display CTA for landing page"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3335
+msgid "CTA landing page icon"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3379
+msgid "CTA landing page button url"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3393
+msgid "CTA landing page button text"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3407
+msgid "Contact Form7"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3435
+msgid "Contact form background color"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3526
+msgid "CTA background Image"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3537
+msgid "FAQ section settings"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3549
+msgid "Display faq section"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3590
+msgid "Question[1]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3604
+msgid "Answer[1]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3617
+msgid "Question[2]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3631
+msgid "Answer[2]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3644
+msgid "Question[3]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3658
+msgid "Answer[3]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3671
+msgid "Question[4]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3685
+msgid "Answer[4]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3698
+msgid "Question[5]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3712
+msgid "Answer[5]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3725
+msgid "Question[6]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3739
+msgid "Answer[6]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3804
+msgid "Question icon color"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3817
+msgid "Answer icon color"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3827
+msgid "Postscript section settings"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3839
+msgid "Display postscript section"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3853
+msgid "Postscript layout type"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3858
+msgid "Postscript right layout"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3859
+msgid "Postscript center layout"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3860
+msgid "Postscript left layout"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3873
+msgid "The minimum size of the image is the width 900px."
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3881
+#: lib/modules/sections/section-lp-postscript.php:8
+msgid "Postscrip"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3913
+msgid "postscript button text"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:3989
+msgid "Mobile cta section settings"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:4001
+msgid "Display mobile cta section"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:4016
+msgid "Ex TEL"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:4031
+msgid "Ex tel:0312345678"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:4049
+msgid "Ex fa fa-phone"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:4064
+msgid "Ex Mail"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:4096
+msgid "Ex fa fa-envelope-o"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:4111
+msgid "Ex Purchase"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:4143
+msgid "Ex fa fa-cart-plus"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:4157
+msgid "Mobile cta background color[1]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:4170
+msgid "Text & Icon color[1]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:4183
+msgid "Mobile cta background color[2]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:4196
+msgid "Text & Icon color[2]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:4209
+msgid "Mobile cta background color[3]"
+msgstr ""
+
+#: lib/customizer-panels/landing-page-panel.php:4222
+msgid "Text & Icon color[3]"
+msgstr ""
+
+#: lib/customizer-panels/page-speed-panel.php:15
+msgid "Page speed settings"
+msgstr ""
+
+#: lib/customizer-panels/page-speed-panel.php:22
+msgid "Optimized jquery"
+msgstr ""
+
+#: lib/customizer-panels/page-speed-panel.php:34
+msgid "Put jquery at the bottom"
+msgstr ""
+
+#: lib/customizer-panels/page-speed-panel.php:45
+msgid "Optimized CSS"
+msgstr ""
+
+#: lib/customizer-panels/page-speed-panel.php:57
+msgid "Use binding style.css"
+msgstr ""
+
+#: lib/customizer-panels/page-speed-panel.php:58
+msgid "When adding CSS to style sheet, please turn off CSS compression.After adding CSS, please turn on CSS compression."
+msgstr ""
+
+#: lib/customizer-panels/page-speed-panel.php:72
+msgid "Lazy Load font-awesome.css"
+msgstr ""
+
+#: lib/customizer-panels/page-speed-panel.php:83
+msgid "Optimized HTML"
+msgstr ""
+
+#: lib/customizer-panels/page-speed-panel.php:95
+msgid "Minified HTML"
+msgstr ""
+
+#: lib/customizer-panels/template-panel.php:15 lib/theme-setup.php:37
+msgid "Template settings"
+msgstr ""
+
+#: lib/customizer-panels/template-panel.php:22
+msgid "Sidebar layout"
+msgstr ""
+
+#: lib/customizer-panels/template-panel.php:34
+msgid "Front page sidebar layout type"
+msgstr ""
+
+#: lib/customizer-panels/template-panel.php:39
+#: lib/customizer-panels/template-panel.php:59
+#: lib/customizer-panels/template-panel.php:79
+msgid "Right sidebar"
+msgstr ""
+
+#: lib/customizer-panels/template-panel.php:40
+#: lib/customizer-panels/template-panel.php:60
+#: lib/customizer-panels/template-panel.php:80
+msgid "Left sidebar"
+msgstr ""
+
+#: lib/customizer-panels/template-panel.php:41
+#: lib/customizer-panels/template-panel.php:61
+#: lib/customizer-panels/template-panel.php:81
+msgid "No sidebar"
+msgstr ""
+
+#: lib/customizer-panels/template-panel.php:53
+msgid "Content sidebar layout type"
+msgstr ""
+
+#: lib/customizer-panels/template-panel.php:54
+msgid "Display setting of the post, the page."
+msgstr ""
+
+#: lib/customizer-panels/template-panel.php:73
+msgid "Archive sidebar layout type"
+msgstr ""
+
+#: lib/customizer-panels/template-panel.php:74
+#: lib/customizer-panels/template-panel.php:124
+msgid "Display setting of the archive page."
+msgstr ""
+
+#: lib/customizer-panels/template-panel.php:90
+msgid "Entry list layout"
+msgstr ""
+
+#: lib/customizer-panels/template-panel.php:102
+msgid "Entry list layout type"
+msgstr ""
+
+#: lib/customizer-panels/template-panel.php:103
+msgid "Display setting of the front page."
+msgstr ""
+
+#: lib/customizer-panels/template-panel.php:108
+#: lib/customizer-panels/template-panel.php:129
+#: lib/customizer-panels/template-panel.php:150
+msgid "One column"
+msgstr ""
+
+#: lib/customizer-panels/template-panel.php:109
+#: lib/customizer-panels/template-panel.php:130
+#: lib/customizer-panels/template-panel.php:151
+msgid "Two column"
+msgstr ""
+
+#: lib/customizer-panels/template-panel.php:110
+#: lib/customizer-panels/template-panel.php:131
+#: lib/customizer-panels/template-panel.php:152
+msgid "Three column"
+msgstr ""
+
+#: lib/customizer-panels/template-panel.php:111
+#: lib/customizer-panels/template-panel.php:132
+msgid "Big column"
+msgstr ""
+
+#: lib/customizer-panels/template-panel.php:123
+msgid "Archive list layout type"
+msgstr ""
+
+#: lib/customizer-panels/template-panel.php:144
+msgid "Author list layout type"
+msgstr ""
+
+#: lib/customizer-panels/template-panel.php:145
+msgid "Display setting of the author list ."
+msgstr ""
+
+#: lib/customizer-panels/template-panel.php:164
+msgid "Exclude author user id"
+msgstr ""
+
+#: lib/customizer-panels/template-panel.php:262
+msgid "Display excerpt"
+msgstr ""
+
+#: lib/customizer-panels/template-panel.php:276
+msgid "Display category nicename class"
+msgstr ""
+
+#: lib/customizer-panels/template-panel.php:290
+msgid "Number of excerpt length (default 40)"
+msgstr ""
+
+#: lib/customizer-panels/template-panel.php:308
+msgid "Excerpt more"
+msgstr ""
+
+#: lib/customizer-panels/template-panel.php:336
+msgid "Read more type"
+msgstr ""
+
+#: lib/customizer-panels/template-panel.php:341
+msgid "Read more"
+msgstr ""
+
+#: lib/customizer-panels/template-panel.php:342
+msgid "Post title"
+msgstr ""
+
+#: lib/modules/components/ad-300.php:16 lib/modules/components/ad-300h2.php:43
+#: lib/modules/components/ad-300under.php:44
+msgid "Ad code has not been entered in the widget."
+msgstr ""
+
+#: lib/modules/components/breadcrumb.php:96
+#: lib/modules/components/breadcrumb.php:102
+#: lib/modules/components/breadcrumb.php:105
+msgid "Year"
+msgstr ""
+
+#: lib/modules/components/breadcrumb.php:98
+#: lib/modules/components/breadcrumb.php:103
+msgid "Month"
+msgstr ""
+
+#: lib/modules/components/breadcrumb.php:100
+msgid "Day"
+msgstr ""
+
+#: lib/modules/components/breadcrumb.php:112
+msgid "File not found"
+msgstr ""
+
+#: lib/modules/components/breadcrumb.php:115
+msgid "Search results"
+msgstr ""
+
+#: lib/modules/components/facebook-follow.php:8
+msgid "If you like this article, Please click on the button"
+msgstr ""
+
+#: lib/modules/components/mobile-footer-buttons.php:41
+msgid "Share"
+msgstr ""
+
+#: lib/modules/components/mobile-footer-buttons.php:51
+msgid "Search"
+msgstr ""
+
+#: lib/modules/components/post-navigation.php:11
+msgid "Next page"
+msgstr ""
+
+#: lib/modules/components/post-navigation.php:12
+msgid "Previous page"
+msgstr ""
+
+#: lib/modules/components/read-more.php:13
+msgid "Read More of"
+msgstr ""
+
+#: lib/modules/components/related-post.php:56
+#: lib/modules/components/related-post.php:89
+#: lib/modules/components/related-post.php:126
+#: lib/modules/components/related-post.php:159
+msgid "Not Related Post"
+msgstr ""
+
+#: lib/modules/components/sns-buttons-count.php:31
+#: lib/modules/components/sns-buttons.php:31
+msgid "hatebu"
+msgstr ""
+
+#: lib/modules/sections/section-lp-closing.php:8
+msgid "Closing section title"
+msgstr ""
+
+#: lib/theme-admin-options.php:30 lib/theme-admin-options.php:67
+msgid "word counter:"
+msgstr ""
+
+#: lib/theme-admin-options.php:81 lib/theme-admin-options.php:82
+msgid "Hide ad setting"
+msgstr ""
+
+#: lib/theme-admin-options.php:99
+msgid "Hide ad"
+msgstr ""
+
+#: lib/theme-admin-options.php:134 lib/theme-admin-options.php:135
+msgid "CTA setting"
+msgstr ""
+
+#: lib/theme-admin-options.php:151
+msgid "Common"
+msgstr ""
+
+#: lib/theme-admin-options.php:154
+msgid "Potential customers"
+msgstr ""
+
+#: lib/theme-admin-options.php:157
+msgid "Eventually customers"
+msgstr ""
+
+#: lib/theme-admin-options.php:160
+msgid "Compare customers"
+msgstr ""
+
+#: lib/theme-admin-options.php:163
+msgid "Prospect customers"
+msgstr ""
+
+#: lib/theme-admin-options.php:173
+msgid "Hide cta"
+msgstr ""
+
+#: lib/theme-admin-options.php:182
+msgid "Hide popup cta"
+msgstr ""
+
+#: lib/theme-admin-options.php:273 lib/theme-admin-options.php:274
+msgid "Featured entry setting"
+msgstr ""
+
+#: lib/theme-admin-options.php:291
+msgid "Display featured entry"
+msgstr ""
+
+#: lib/theme-admin-options.php:326 lib/theme-admin-options.php:327
+msgid "SEO setting"
+msgstr ""
+
+#: lib/theme-admin-options.php:339
+msgid "meta keywords"
+msgstr ""
+
+#: lib/theme-admin-options.php:341
+msgid "Set the peculiar keyword indicating this page contents.(Option)"
+msgstr ""
+
+#: lib/theme-admin-options.php:342
+msgid "During Meta keyword ,(separated by single-byte comma). (Example) keyword 1,keyword 2"
+msgstr ""
+
+#: lib/theme-admin-options.php:344
+msgid "meta description"
+msgstr ""
+
+#: lib/theme-admin-options.php:346
+msgid "Set the summarized writing indicating page contents .(Option)"
+msgstr ""
+
+#: lib/theme-admin-options.php:347
+msgid "Input full size around 120 characters"
+msgstr ""
+
+#: lib/theme-admin-options.php:347
+msgid "In the case of non-input, 120 characters are extracted from the post."
+msgstr ""
+
+#: lib/theme-admin-options.php:357
+msgid "noindex"
+msgstr ""
+
+#: lib/theme-admin-options.php:358
+msgid "Discourage search engines from indexing this page"
+msgstr ""
+
+#: lib/theme-admin-options.php:368
+msgid "nofollow"
+msgstr ""
+
+#: lib/theme-admin-options.php:369
+msgid "Discourage search engines from following this page"
+msgstr ""
+
+#: lib/theme-admin-options.php:371
+msgid "SEO setting function is turns off."
+msgstr ""
+
+#: lib/theme-admin-options.php:438 lib/theme-admin-options.php:439
+msgid "Custom CSS setting"
+msgstr ""
+
+#: lib/theme-admin-options.php:450
+msgid "Enter CSS code of this page. Style tag is not required. Code example: .example { font-size: 20px; color: #000; }"
+msgstr ""
+
+#: lib/theme-admin-options.php:485
+msgid "Page LP setting"
+msgstr ""
+
+#: lib/theme-admin-options.php:494
+msgid "By inputting the tag of the mail delivery system, you can set up an input form such as mail magazine registration."
+msgstr ""
+
+#: lib/theme-admin-options.php:496
+msgid "After entering the tag, please select the landing page (lead) with the attribute of the fixed page."
+msgstr ""
+
+#: lib/theme-admin-options.php:498
+msgid "Form Title"
+msgstr ""
+
+#: lib/theme-admin-options.php:501
+msgid "Form action"
+msgstr ""
+
+#: lib/theme-admin-options.php:504
+msgid "Input hidden"
+msgstr ""
+
+#: lib/theme-admin-options.php:507
+msgid "Input submit"
+msgstr ""
+
+#: lib/theme-admin-options.php:511 lib/theme-admin-options.php:514
+#: lib/theme-admin-options.php:517 lib/theme-admin-options.php:520
+#: lib/theme-admin-options.php:523 lib/theme-admin-options.php:526
+msgid "label"
+msgstr ""
+
+#: lib/theme-admin-options.php:512 lib/theme-admin-options.php:515
+#: lib/theme-admin-options.php:518 lib/theme-admin-options.php:521
+#: lib/theme-admin-options.php:524 lib/theme-admin-options.php:527
+msgid "Input text"
+msgstr ""
+
+#: lib/theme-admin-options.php:531
+msgid "You can also install short code of 「Contact Form 7」"
+msgstr ""
+
+#: lib/theme-setup.php:10
+msgid "Emanon Setup"
+msgstr ""
+
+#: lib/theme-setup.php:11
+msgid "Emanon manual"
+msgstr ""
+
+#: lib/theme-setup.php:23
+msgid "Emanon Pro manual"
+msgstr ""
+
+#: lib/theme-setup.php:24
+msgid "Thank you for install Emanon Pro. Emanon Pro implements the original Customizing function."
+msgstr ""
+
+#: lib/theme-setup.php:25
+msgid "Please set according to your purpose of use while the contents of the following manual."
+msgstr ""
+
+#: lib/theme-setup.php:29
+msgid "Theme customization features"
+msgstr ""
+
+#: lib/theme-setup.php:41
+msgid "Page Speed settings"
+msgstr ""
+
+#: lib/theme-setup.php:42
+msgid "Widget settings"
+msgstr ""
+
+#: lib/theme-setup.php:50
+msgid "Post sample"
+msgstr ""
+
+#: lib/theme-setup.php:53
+msgid "Post"
+msgstr ""
+
+#: lib/theme-setup.php:54
+msgid "Sample page"
+msgstr ""
+
+#: lib/theme-setup.php:61
+msgid "FAQ and contact us"
+msgstr ""
+
+#: lib/theme-setup.php:64
+msgid "FAQ"
+msgstr ""
+
+#: lib/theme-tags.php:31
+msgid "Protected post."
+msgstr ""
+
+#: lib/theme-tags.php:64 lib/theme-tags.php:148 lib/theme-tags.php:150
+#: lib/theme-tags.php:227
+msgid "Ymd"
+msgstr ""
+
+#: lib/theme-tags.php:66 lib/theme-tags.php:143 lib/theme-tags.php:145
+#: lib/theme-tags.php:225
+msgid "Ym"
+msgstr ""
+
+#: lib/theme-tags.php:68 lib/theme-tags.php:138 lib/theme-tags.php:140
+#: lib/theme-tags.php:223
+msgid "Y"
+msgstr ""
+
+#: lib/theme-tags.php:72
+msgid "404 Error"
+msgstr ""
+
+#: lib/theme-tags.php:97
+msgid "List of post"
+msgstr ""
+
+#: lib/theme-tags.php:97 lib/theme-tags.php:119 lib/theme-tags.php:127
+#: lib/theme-tags.php:135 lib/theme-tags.php:140 lib/theme-tags.php:145
+#: lib/theme-tags.php:150 lib/theme-tags.php:155
+#, php-format
+msgid "%s Page"
+msgstr ""
+
+#: lib/theme-tags.php:101
+msgid "There is no overview because this is a protected post."
+msgstr ""
+
+#: lib/theme-tags.php:116 lib/theme-tags.php:119 lib/theme-tags.php:219
+#: lib/theme-tags.php:1584
+msgid "Category of article list"
+msgstr ""
+
+#: lib/theme-tags.php:124 lib/theme-tags.php:127 lib/theme-tags.php:221
+#: lib/theme-tags.php:1589
+msgid "Tag of article list"
+msgstr ""
+
+#: lib/theme-tags.php:132 lib/theme-tags.php:135
+msgid "Taxonomy of article list"
+msgstr ""
+
+#: lib/theme-tags.php:138 lib/theme-tags.php:140 lib/theme-tags.php:223
+msgid "Year of article list"
+msgstr ""
+
+#: lib/theme-tags.php:143 lib/theme-tags.php:145 lib/theme-tags.php:225
+msgid "Month of article list"
+msgstr ""
+
+#: lib/theme-tags.php:148 lib/theme-tags.php:150 lib/theme-tags.php:227
+msgid "Day of article list"
+msgstr ""
+
+#: lib/theme-tags.php:153 lib/theme-tags.php:155 lib/theme-tags.php:229
+#: lib/theme-tags.php:1594
+msgid "Author of article list"
+msgstr ""
+
+#: lib/theme-tags.php:158 lib/theme-tags.php:231
+msgid "Search Result of article list"
+msgstr ""
+
+#: lib/theme-tags.php:160 lib/theme-tags.php:233
+msgid "It looks like nothing was found at this location. Maybe try a search? or check URL."
+msgstr ""
+
+#: lib/theme-tags.php:1279
+msgid "Recommended Articles"
+msgstr ""
+
+#: lib/theme-tags.php:1592
+msgid "Article list"
+msgstr ""
+
+#: lib/theme-widget.php:15
+msgid "Sidebar"
+msgstr ""
+
+#: lib/theme-widget.php:24
+msgid "Sidebar［Fixed］"
+msgstr ""
+
+#: lib/theme-widget.php:33
+msgid "Sidebar［SP］"
+msgstr ""
+
+#: lib/theme-widget.php:35
+msgid "It is a sidebar for smartphone. Displayed in priority over widgets of sidebar and sidebar [fixed]."
+msgstr ""
+
+#: lib/theme-widget.php:43
+msgid "Ad Common"
+msgstr ""
+
+#: lib/theme-widget.php:45
+msgid "Display common ads. Add a text widget and paste the ad code. Ad size: 300 250"
+msgstr ""
+
+#: lib/theme-widget.php:53
+msgid "Ad Sidebar"
+msgstr ""
+
+#: lib/theme-widget.php:55
+msgid "Display ads in the sidebar. Add a text widget and paste the ad code. Ad size: 300 250"
+msgstr ""
+
+#: lib/theme-widget.php:63
+msgid "Ad h2 Left"
+msgstr ""
+
+#: lib/theme-widget.php:65
+msgid "Display ad on top left of h2. Add a text widget and paste the ad code. Ad size: 300 250"
+msgstr ""
+
+#: lib/theme-widget.php:73
+msgid "Ad h2 Right"
+msgstr ""
+
+#: lib/theme-widget.php:75
+msgid "Display ad on top right of h2. Add a text widget and paste the ad code. Ad size: 300 250"
+msgstr ""
+
+#: lib/theme-widget.php:83
+msgid "Ad Page Bottom Left"
+msgstr ""
+
+#: lib/theme-widget.php:85
+msgid "Display ad in the bottom left of page body. Add a text widget and paste the ad code. Ad size: 300 250"
+msgstr ""
+
+#: lib/theme-widget.php:93
+msgid "Ad Page Bottom Right"
+msgstr ""
+
+#: lib/theme-widget.php:95
+msgid "Display ad in the bottom right of page body. Add a text widget and paste the ad code. Ad size: 300 250"
+msgstr ""
+
+#: lib/theme-widget.php:103
+msgid "Page Bottom Area"
+msgstr ""
+
+#: lib/theme-widget.php:105
+msgid "It is a widget dedicated to the page bottom area."
+msgstr ""
+
+#: lib/theme-widget.php:113
+msgid "Header Right Area"
+msgstr ""
+
+#: lib/theme-widget.php:115
+msgid "It is a widget dedicated to the right margin of the header. Set up header layout setting as \"left layout\"."
+msgstr ""
+
+#: lib/theme-widget.php:123
+msgid "Hamburger Menu Area"
+msgstr ""
+
+#: lib/theme-widget.php:125
+msgid "It is a widget for hamburger menu. It is displayed in the modal window."
+msgstr ""
+
+#: lib/theme-widget.php:133
+msgid "Hamburger Menu Area for LP"
+msgstr ""
+
+#: lib/theme-widget.php:135
+msgid "It is a widget for LP hamburger menu. It is displayed in the modal window."
+msgstr ""
+
+#: lib/theme-widget.php:143
+msgid "Front Page Top Area［PC］"
+msgstr ""
+
+#: lib/theme-widget.php:145
+msgid "Front page first view lower part(PC/Tablet):Max size 790px."
+msgstr ""
+
+#: lib/theme-widget.php:153
+msgid "Front Page Bottom Area［PC］"
+msgstr ""
+
+#: lib/theme-widget.php:155
+msgid "Front page footer top(PC/Tablet):Max size 790px."
+msgstr ""
+
+#: lib/theme-widget.php:163
+msgid "Front Page Top Area［SP］"
+msgstr ""
+
+#: lib/theme-widget.php:165
+msgid "Front page first view lower part(SP)."
+msgstr ""
+
+#: lib/theme-widget.php:173
+msgid "Front Page Bottom Area［SP］"
+msgstr ""
+
+#: lib/theme-widget.php:175
+msgid "Front page footer top(SP)."
+msgstr ""
+
+#: lib/theme-widget.php:183
+msgid "Footer Left Area"
+msgstr ""
+
+#: lib/theme-widget.php:192
+msgid "Footer Center Area［1］"
+msgstr ""
+
+#: lib/theme-widget.php:201
+msgid "Footer Center Area［2］"
+msgstr ""
+
+#: lib/theme-widget.php:210
+msgid "Footer Right Area"
+msgstr ""
+
+#: lib/theme-widget.php:219
+msgid "Footer Area［SP］"
+msgstr ""
+
+#: lib/theme-widget.php:221
+msgid "It is a sidebar for smartphone. Displayed in priority over widgets of Footer left area, Footer center area and Footer right area."
+msgstr ""
+
+#: lib/theme-widget.php:236 lib/theme-widget.php:401 lib/theme-widget.php:554
+msgid "Twitter profile url:"
+msgstr ""
+
+#: lib/theme-widget.php:237 lib/theme-widget.php:408 lib/theme-widget.php:561
+msgid "Facebook profile url:"
+msgstr ""
+
+#: lib/theme-widget.php:238 lib/theme-widget.php:415 lib/theme-widget.php:568
+msgid "GooglePlus profile url:"
+msgstr ""
+
+#: lib/theme-widget.php:239 lib/theme-widget.php:422 lib/theme-widget.php:575
+msgid "Instagram profile url:"
+msgstr ""
+
+#: lib/theme-widget.php:240
+msgid "Position"
+msgstr ""
+
+#: lib/theme-widget.php:287
+msgid "Profile widget"
+msgstr ""
+
+#: lib/theme-widget.php:290
+msgid "［E］Profile widget"
+msgstr ""
+
+#: lib/theme-widget.php:373 lib/theme-widget.php:526 lib/theme-widget.php:660
+#: lib/theme-widget.php:778 lib/theme-widget.php:864
+msgid "Title:"
+msgstr ""
+
+#: lib/theme-widget.php:380
+msgid "Name:"
+msgstr ""
+
+#: lib/theme-widget.php:387 lib/theme-widget.php:533 lib/theme-widget.php:667
+#: lib/theme-widget.php:871
+msgid "Upload image URL:"
+msgstr ""
+
+#: lib/theme-widget.php:394 lib/theme-widget.php:547
+msgid "Profile text:"
+msgstr ""
+
+#: lib/theme-widget.php:437
+msgid "Website Profile widget"
+msgstr ""
+
+#: lib/theme-widget.php:440
+msgid "［E］Website Profile widget"
+msgstr ""
+
+#: lib/theme-widget.php:540
+msgid "Website title:"
+msgstr ""
+
+#: lib/theme-widget.php:582
+msgid "Contact url:"
+msgstr ""
+
+#: lib/theme-widget.php:597
+msgid "Sidebar CTA widget"
+msgstr ""
+
+#: lib/theme-widget.php:600
+msgid "［E］Sidebar CTA widget"
+msgstr ""
+
+#: lib/theme-widget.php:674
+msgid "CTA Title:"
+msgstr ""
+
+#: lib/theme-widget.php:681
+msgid "Description:"
+msgstr ""
+
+#: lib/theme-widget.php:688
+msgid "Btn text:"
+msgstr ""
+
+#: lib/theme-widget.php:695
+msgid "Btn url:"
+msgstr ""
+
+#: lib/theme-widget.php:710
+msgid "List of articles with thumbnails"
+msgstr ""
+
+#: lib/theme-widget.php:713
+msgid "［E］New Posts widget"
+msgstr ""
+
+#: lib/theme-widget.php:749
+msgid "No new post"
+msgstr ""
+
+#: lib/theme-widget.php:785
+msgid "Number:"
+msgstr ""
+
+#: lib/theme-widget.php:788
+msgid "Posts"
+msgstr ""
+
+#: lib/theme-widget.php:793
+msgid "Length:"
+msgstr ""
+
+#: lib/theme-widget.php:796
+msgid "※ To restrict title display to 23 characters, enter 46"
+msgstr ""
+
+#: lib/theme-widget.php:802
+msgid "Display post date"
+msgstr ""
+
+#: lib/theme-widget.php:815
+msgid "Banner widget"
+msgstr ""
+
+#: lib/theme-widget.php:818
+msgid "［E］Banner widget"
+msgstr ""
+
+#: lib/theme-widget.php:878
+msgid "Image alt:"
+msgstr ""
+
+#: lib/theme-widget.php:885
+msgid "Banner url:"
+msgstr ""
+
+#: lib/theme-widget.php:893
+msgid "Target blank link"
+msgstr ""
+
+#: yarpp-template-emanon.php:11
+msgid "Recommend Posts"
+msgstr ""
+
+#: yarpp-template-emanon.php:33
+msgid "No recommend posts"
+msgstr ""

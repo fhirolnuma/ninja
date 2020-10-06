@@ -1,0 +1,1060 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: emanon ver1.0\n"
+"POT-Creation-Date: 2017-09-19 22:20+0900\n"
+"PO-Revision-Date: 2015-11-26 01:48+0900\n"
+"Last-Translator: innocord <y_kohira@innocord.co.jp>\n"
+"Language-Team: innocord <contact@innocord.co.jp>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: functions.php:15
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:24
+msgid "Sidebar［Fixed］"
+msgstr ""
+
+#: functions.php:33
+msgid "Sidebar［SP］"
+msgstr ""
+
+#: functions.php:35
+msgid "It is a sidebar for smartphone. Displayed in priority over widgets of sidebar and sidebar [fixed]."
+msgstr ""
+
+#: functions.php:43
+msgid "Front Page"
+msgstr ""
+
+#: functions.php:52
+msgid "Ad Common"
+msgstr ""
+
+#: functions.php:54
+msgid "Display common ads. Add a text widget and paste the ad code. Ad size: 300 250"
+msgstr ""
+
+#: functions.php:62
+msgid "Ad Sidebar"
+msgstr ""
+
+#: functions.php:64
+msgid "Display ads in the sidebar. Add a text widget and paste the ad code. Ad size: 300 250"
+msgstr ""
+
+#: functions.php:72
+msgid "Ad h2 Left"
+msgstr ""
+
+#: functions.php:74
+msgid "Display ad on top left of h2. Add a text widget and paste the ad code. Ad size: 300 250"
+msgstr ""
+
+#: functions.php:82
+msgid "Ad h2 Right"
+msgstr ""
+
+#: functions.php:84
+msgid "Display ad on top right of h2. Add a text widget and paste the ad code. Ad size: 300 250"
+msgstr ""
+
+#: functions.php:92
+msgid "Ad Page Bottom Left"
+msgstr ""
+
+#: functions.php:94
+msgid "Display ad in the bottom left of page body. Add a text widget and paste the ad code. Ad size: 300 250"
+msgstr ""
+
+#: functions.php:102
+msgid "Ad Page Bottom Right"
+msgstr ""
+
+#: functions.php:104
+msgid "Display ad in the bottom right of page body. Add a text widget and paste the ad code. Ad size: 300 250"
+msgstr ""
+
+#: functions.php:112
+msgid "Header right area"
+msgstr ""
+
+#: functions.php:114
+msgid "It is a widget dedicated to the right margin of the header. Set up header layout setting as \"left layout\"."
+msgstr ""
+
+#: functions.php:122
+msgid "Hamburger menu area"
+msgstr ""
+
+#: functions.php:124
+msgid "It is a widget for hamburger menu. It is displayed in the modal window."
+msgstr ""
+
+#: functions.php:132
+msgid "Hamburger menu area for LP"
+msgstr ""
+
+#: functions.php:134
+msgid "It is a widget for LP hamburger menu. It is displayed in the modal window."
+msgstr ""
+
+#: functions.php:142
+msgid "Footer left area"
+msgstr ""
+
+#: functions.php:151
+msgid "Footer center area［1］"
+msgstr ""
+
+#: functions.php:160
+msgid "Footer center area［2］"
+msgstr ""
+
+#: functions.php:169
+msgid "Footer right area"
+msgstr ""
+
+#: functions.php:178
+msgid "Footer area［SP］"
+msgstr ""
+
+#: functions.php:180
+msgid "It is a sidebar for smartphone. Displayed in priority over widgets of Footer left area, Footer center area and Footer right area."
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:15
+msgid "Front page settings"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:22
+msgid "Newsticker section settings"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:34
+msgid "Display newsticker section"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:43
+msgid "NEWS"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:48
+#: lib/customizer-panels/front-page-panel.php:143
+#: lib/customizer-panels/front-page-panel.php:494
+#: lib/customizer-panels/front-page-panel.php:1005
+#: lib/customizer-panels/front-page-panel.php:1661
+#: lib/customizer-panels/front-page-panel.php:1884
+#: lib/customizer-panels/front-page-panel.php:2093
+#: lib/customizer-panels/front-page-panel.php:2619
+#: lib/customizer-panels/front-page-panel.php:3212
+#: lib/customizer-panels/front-page-panel.php:3664
+msgid "Section title"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:62
+msgid "Number of newsticker (default 5)"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:80
+#: lib/customizer-panels/front-page-panel.php:1628
+msgid "Category id"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:94
+#: lib/customizer-panels/front-page-panel.php:393
+#: lib/customizer-panels/front-page-panel.php:1796
+#: lib/customizer-panels/front-page-panel.php:2325
+#: lib/customizer-panels/front-page-panel.php:3537
+msgid "Background color"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:107
+#: lib/customizer-panels/front-page-panel.php:1757
+#: lib/customizer-panels/front-page-panel.php:3576
+msgid "Text color"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:117
+msgid "Solution section settings"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:129
+msgid "Display solution section"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:157
+#: lib/customizer-panels/front-page-panel.php:507
+#: lib/customizer-panels/front-page-panel.php:1019
+#: lib/customizer-panels/front-page-panel.php:1675
+#: lib/customizer-panels/front-page-panel.php:1898
+#: lib/customizer-panels/front-page-panel.php:2107
+#: lib/customizer-panels/front-page-panel.php:2633
+#: lib/customizer-panels/front-page-panel.php:3226
+msgid "Description"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:171
+#: lib/customizer-panels/front-page-panel.php:683
+#: lib/customizer-panels/front-page-panel.php:1075
+msgid "Icon[1]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:173
+#: lib/customizer-panels/front-page-panel.php:247
+#: lib/customizer-panels/front-page-panel.php:321
+#: lib/customizer-panels/front-page-panel.php:685
+#: lib/customizer-panels/front-page-panel.php:744
+#: lib/customizer-panels/front-page-panel.php:803
+#: lib/customizer-panels/front-page-panel.php:1077
+#: lib/customizer-panels/front-page-panel.php:1151
+#: lib/customizer-panels/front-page-panel.php:1225
+#: lib/customizer-panels/front-page-panel.php:1299
+#: lib/customizer-panels/front-page-panel.php:1373
+#: lib/customizer-panels/front-page-panel.php:1447
+#: lib/customizer-panels/front-page-panel.php:2369
+#: lib/customizer-panels/front-page-panel.php:2442
+msgid "Fontawesome Icon Click"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:174
+#: lib/customizer-panels/front-page-panel.php:248
+#: lib/customizer-panels/front-page-panel.php:322
+#: lib/customizer-panels/front-page-panel.php:686
+#: lib/customizer-panels/front-page-panel.php:745
+#: lib/customizer-panels/front-page-panel.php:804
+#: lib/customizer-panels/front-page-panel.php:1078
+#: lib/customizer-panels/front-page-panel.php:1152
+#: lib/customizer-panels/front-page-panel.php:1226
+#: lib/customizer-panels/front-page-panel.php:1300
+#: lib/customizer-panels/front-page-panel.php:1374
+#: lib/customizer-panels/front-page-panel.php:1448
+#: lib/customizer-panels/front-page-panel.php:2370
+#: lib/customizer-panels/front-page-panel.php:2443
+msgid "here"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:188
+#: lib/customizer-panels/front-page-panel.php:1092
+#: lib/customizer-panels/front-page-panel.php:2665
+msgid "Image[1]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:189
+#: lib/customizer-panels/front-page-panel.php:263
+#: lib/customizer-panels/front-page-panel.php:337
+msgid "The minimum size of the image is the width 96px height 96px."
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:203
+#: lib/customizer-panels/front-page-panel.php:700
+#: lib/customizer-panels/front-page-panel.php:1033
+#: lib/customizer-panels/front-page-panel.php:2693
+msgid "Title[1]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:217
+#: lib/customizer-panels/front-page-panel.php:714
+#: lib/customizer-panels/front-page-panel.php:1047
+#: lib/customizer-panels/front-page-panel.php:2149
+#: lib/customizer-panels/front-page-panel.php:2707
+msgid "Description[1]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:231
+#: lib/customizer-panels/front-page-panel.php:728
+#: lib/customizer-panels/front-page-panel.php:1061
+msgid "url[1]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:245
+#: lib/customizer-panels/front-page-panel.php:742
+#: lib/customizer-panels/front-page-panel.php:1149
+msgid "Icon[2]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:262
+#: lib/customizer-panels/front-page-panel.php:1166
+#: lib/customizer-panels/front-page-panel.php:2735
+msgid "Image[2]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:277
+#: lib/customizer-panels/front-page-panel.php:759
+#: lib/customizer-panels/front-page-panel.php:1107
+#: lib/customizer-panels/front-page-panel.php:2763
+msgid "Title[2]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:291
+#: lib/customizer-panels/front-page-panel.php:773
+#: lib/customizer-panels/front-page-panel.php:1121
+#: lib/customizer-panels/front-page-panel.php:2191
+#: lib/customizer-panels/front-page-panel.php:2777
+msgid "Description[2]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:305
+#: lib/customizer-panels/front-page-panel.php:787
+#: lib/customizer-panels/front-page-panel.php:1135
+msgid "url[2]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:319
+#: lib/customizer-panels/front-page-panel.php:801
+#: lib/customizer-panels/front-page-panel.php:1223
+msgid "Icon[3]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:336
+#: lib/customizer-panels/front-page-panel.php:1240
+#: lib/customizer-panels/front-page-panel.php:2805
+msgid "Image[3]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:351
+#: lib/customizer-panels/front-page-panel.php:818
+#: lib/customizer-panels/front-page-panel.php:1181
+#: lib/customizer-panels/front-page-panel.php:2833
+msgid "Title[3]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:365
+#: lib/customizer-panels/front-page-panel.php:832
+#: lib/customizer-panels/front-page-panel.php:1195
+#: lib/customizer-panels/front-page-panel.php:2233
+#: lib/customizer-panels/front-page-panel.php:2847
+msgid "Description[3]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:379
+#: lib/customizer-panels/front-page-panel.php:846
+#: lib/customizer-panels/front-page-panel.php:1209
+msgid "url[3]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:406
+#: lib/customizer-panels/front-page-panel.php:1731
+#: lib/customizer-panels/front-page-panel.php:2247
+#: lib/customizer-panels/front-page-panel.php:3550
+msgid "Title color"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:419
+#: lib/customizer-panels/front-page-panel.php:1744
+msgid "Description color"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:432
+#: lib/customizer-panels/front-page-panel.php:938
+msgid "Title color［1］〜［3］"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:445
+#: lib/customizer-panels/front-page-panel.php:951
+msgid "Description color［1］〜［3］"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:458
+#: lib/customizer-panels/front-page-panel.php:925
+#: lib/customizer-panels/front-page-panel.php:1529
+msgid "Icon color"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:468
+msgid "Sales section settings"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:480
+msgid "Display sales section"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:521
+#: lib/customizer-panels/front-page-panel.php:1832
+msgid "Image"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:535
+msgid "Movie MP4"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:536
+msgid "Upload your video in mp4 format"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:541
+#: lib/customizer-panels/front-page-panel.php:544
+msgid "Select Video"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:542
+msgid "Change Video"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:543
+msgid "No video selected"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:545
+msgid "Choose Video"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:557
+msgid "Movie MP4 autoplay"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:571
+msgid "Movie MP4 loop"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:585
+msgid "Movie MP4 muted"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:599
+msgid "Movie MP4 controls"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:613
+msgid "Movie MP4 loop［SP］"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:627
+msgid "Movie MP4 muted［SP］"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:641
+msgid "Movie MP4 controls［SP］"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:655
+#: lib/customizer-panels/front-page-panel.php:1703
+#: lib/customizer-panels/front-page-panel.php:3509
+#: lib/customizer-panels/front-page-panel.php:3692
+msgid "Button url"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:669
+#: lib/customizer-panels/front-page-panel.php:1717
+#: lib/customizer-panels/front-page-panel.php:1912
+#: lib/customizer-panels/front-page-panel.php:3523
+#: lib/customizer-panels/front-page-panel.php:3706
+msgid "Button text"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:860
+#: lib/customizer-panels/front-page-panel.php:1477
+#: lib/customizer-panels/front-page-panel.php:2513
+#: lib/customizer-panels/front-page-panel.php:3085
+#: lib/customizer-panels/front-page-panel.php:3735
+msgid "Section background color"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:873
+#: lib/customizer-panels/front-page-panel.php:1490
+#: lib/customizer-panels/front-page-panel.php:1940
+#: lib/customizer-panels/front-page-panel.php:2526
+#: lib/customizer-panels/front-page-panel.php:3098
+#: lib/customizer-panels/front-page-panel.php:3748
+msgid "Section title color"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:886
+#: lib/customizer-panels/front-page-panel.php:1503
+#: lib/customizer-panels/front-page-panel.php:1953
+#: lib/customizer-panels/front-page-panel.php:2539
+#: lib/customizer-panels/front-page-panel.php:3111
+#: lib/customizer-panels/front-page-panel.php:3761
+msgid "Section description color"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:899
+#: lib/customizer-panels/front-page-panel.php:1770
+#: lib/customizer-panels/front-page-panel.php:1966
+#: lib/customizer-panels/front-page-panel.php:2552
+#: lib/customizer-panels/front-page-panel.php:3163
+#: lib/customizer-panels/front-page-panel.php:3615
+#: lib/customizer-panels/front-page-panel.php:3774
+msgid "Button background color"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:912
+#: lib/customizer-panels/front-page-panel.php:1783
+#: lib/customizer-panels/front-page-panel.php:1979
+#: lib/customizer-panels/front-page-panel.php:3628
+msgid "Button text color"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:961
+msgid "Benefit section settings"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:973
+msgid "Display benefit section"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:987
+#: lib/customizer-panels/front-page-panel.php:2601
+msgid "Section layout type"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:992
+#: lib/customizer-panels/front-page-panel.php:2606
+msgid "One row"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:993
+#: lib/customizer-panels/front-page-panel.php:2607
+msgid "Two row"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1093
+#: lib/customizer-panels/front-page-panel.php:1167
+#: lib/customizer-panels/front-page-panel.php:1241
+#: lib/customizer-panels/front-page-panel.php:1315
+#: lib/customizer-panels/front-page-panel.php:1389
+#: lib/customizer-panels/front-page-panel.php:1463
+msgid "The minimum size of the image is the width 350px."
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1255
+#: lib/customizer-panels/front-page-panel.php:2903
+msgid "Title[4]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1269
+#: lib/customizer-panels/front-page-panel.php:2917
+msgid "Description[4]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1283
+msgid "url[4]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1297
+msgid "Icon[4]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1314
+#: lib/customizer-panels/front-page-panel.php:2875
+msgid "Image[4]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1329
+#: lib/customizer-panels/front-page-panel.php:2973
+msgid "Title[5]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1343
+#: lib/customizer-panels/front-page-panel.php:2987
+msgid "Description[5]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1357
+msgid "url[5]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1371
+msgid "Icon[5]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1388
+#: lib/customizer-panels/front-page-panel.php:2945
+#: lib/customizer-panels/front-page-panel.php:3015
+msgid "Image[5]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1403
+#: lib/customizer-panels/front-page-panel.php:3043
+msgid "Title[6]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1417
+#: lib/customizer-panels/front-page-panel.php:3057
+msgid "Description[6]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1431
+msgid "url[6]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1445
+msgid "Icon[6]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1462
+msgid "Image[6]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1516
+#: lib/customizer-panels/front-page-panel.php:2299
+#: lib/customizer-panels/front-page-panel.php:3124
+msgid "Box background color"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1542
+msgid "Benefit title color"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1555
+msgid "Benefit description color"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1565
+msgid "Case section settings"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1577
+msgid "Display case section"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1591
+msgid "Case article type"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1596
+msgid "Display post"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1597
+msgid "Display page"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1609
+msgid "Case display type"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1614
+msgid "Display Category (Selected id)"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1615
+msgid "Display Featured"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1616
+msgid "Display New arrivals"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1629
+msgid "When the display type is category, please enter category id."
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1643
+msgid "Number of entry (default 3)"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1684
+msgid "Case"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1689
+msgid "Section label"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1712
+msgid "Case lists"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1806
+msgid "Product section settings"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1818
+msgid "Display product section"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1846
+msgid "Product image height (default 400px)"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1865
+msgid "Product message layout type"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1870
+msgid "Message left layout"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1871
+msgid "Message center layout"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1872
+msgid "Message right layout"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1926
+msgid "CTA button url #contactfrom-section"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:1992
+msgid "Background color ［start］"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2005
+msgid "Background color ［end］"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2018
+msgid "Degree"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2032
+msgid "Dsplay overlay pattern"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2037
+msgid "None display pattern"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2038
+msgid "Display display pattern dots"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2039
+msgid "Display pattern diamond"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2051
+msgid "Background color opacity"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2067
+msgid "Price Table section settings"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2079
+msgid "Display price table section"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2121
+msgid "Item[1]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2135
+msgid "Selling price[1]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2163
+msgid "Item[2]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2177
+msgid "Selling price[2]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2205
+msgid "Item[3]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2219
+msgid "Selling price[3]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2260
+#: lib/customizer-panels/front-page-panel.php:3563
+msgid "Sub title color"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2273
+msgid "Item background color"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2286
+msgid "Item text color"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2312
+msgid "Box text color"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2335
+msgid "CTA section settings"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2347
+msgid "Display cta section"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2352
+msgid "No display front cta"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2353
+msgid "Tell only"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2354
+msgid "Mail only"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2355
+msgid "Tell ＆ Mail"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2367
+msgid "Icon [Tell]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2384
+msgid "Title [Tell]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2398
+msgid "Description [Tell]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2412
+msgid "Tell number"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2426
+msgid "Business hours"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2440
+msgid "Icon [Mail]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2457
+msgid "Title [Mail]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2471
+msgid "Description [Mail]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2485
+msgid "Button url [Mail] #contactfrom-section"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2499
+msgid "Button text [Mail]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2565
+#: lib/customizer-panels/front-page-panel.php:3176
+#: lib/customizer-panels/front-page-panel.php:3787
+msgid "Section button text color"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2575
+msgid "Category section settings"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2587
+msgid "Display category section"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2647
+msgid "Number of category list (default 3)"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2679
+msgid "Category id[1]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2716
+#: lib/customizer-panels/front-page-panel.php:2786
+#: lib/customizer-panels/front-page-panel.php:2856
+#: lib/customizer-panels/front-page-panel.php:2926
+#: lib/customizer-panels/front-page-panel.php:2996
+#: lib/customizer-panels/front-page-panel.php:3066
+#: lib/modules/sections/section-category.php:34
+msgid "Read More Post List"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2721
+msgid "Button text[1]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2749
+msgid "Category id[2]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2791
+msgid "Button text[2]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2819
+msgid "Category id[3]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2861
+msgid "Button text[3]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2889
+msgid "Category id[4]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2931
+msgid "Button text[4]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:2959
+msgid "Category id[5]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:3001
+msgid "Button text[5]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:3029
+msgid "Category id[6]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:3071
+msgid "Button text[6]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:3137
+msgid "Category title color"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:3150
+msgid "Category description color"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:3186
+msgid "FAQ section settings"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:3198
+msgid "Display faq section"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:3239
+msgid "Question[1]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:3253
+msgid "Answer[1]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:3266
+msgid "Question[2]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:3280
+msgid "Answer[2]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:3293
+msgid "Question[3]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:3307
+msgid "Answer[3]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:3320
+msgid "Question[4]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:3334
+msgid "Answer[4]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:3347
+msgid "Question[5]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:3361
+msgid "Answer[5]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:3374
+msgid "Question[6]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:3388
+msgid "Answer[6]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:3401
+msgid "Question[7]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:3415
+msgid "Answer[7]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:3428
+msgid "Question[8]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:3442
+msgid "Answer[8]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:3455
+msgid "Question[9]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:3469
+msgid "Answer[9]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:3482
+msgid "Question[10]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:3496
+msgid "Answer[10]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:3589
+msgid "Question icon color"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:3602
+msgid "Answer icon color"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:3638
+msgid "Contactform section settings"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:3650
+msgid "Display Contactfrom section"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:3678
+msgid "Section description"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:3720
+msgid "Contact Form7"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:3721
+msgid "Input short code example [contact-form-7 id=\"XXXX\" title=\"XXXXX\"]"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:3800
+msgid "Contact Form7 background color"
+msgstr ""
+
+#: lib/customizer-panels/front-page-panel.php:3813
+msgid "Background Image"
+msgstr ""
+
+#: lib/modules/sections/section-case.php:10
+msgid "CASE"
+msgstr ""
+
+#: lib/modules/sections/section-newsticker.php:8
+msgid "News"
+msgstr ""
