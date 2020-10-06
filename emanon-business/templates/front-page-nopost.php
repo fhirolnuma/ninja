@@ -13,7 +13,6 @@ get_header(); ?>
 <?php emanon_business_newsticker_section(); ?>
 
 <?php emanon_business_solution_section(); ?>
-<?php emanon_business_guide_section(); ?>
 
 <?php emanon_business_sales_section (); ?>
 

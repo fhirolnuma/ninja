@@ -84,6 +84,47 @@
 		<?php endif; ?>
 
 	</div>
+	<div class="container inner">
+		<div class="solution-header wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s">
+			<a name="guide"></a>
+			<div class="clearfix">
+				<div class="col6 first">
+					<div class="import-guide-box">
+						<div class="box-title">輸入プラン</div>
+						<p style="text-align: center;"><span style="font-size: 42pt;"><i class="fa fa-plane"><span style="color: transparent; display: none;">icon-android</span></i></span></p>
+						<div class="import-export-guide-box-inner">
+							<span class="under-yellow">輸入プランは<font color="#ff6060" size="4"><b>「アメリカ」から「日本」向け</b></font>のお荷物をお届けいたします。</span>アメリカ国内で購入された商品を忍者エクスプレスがご指定の日本の住所までお届けいたします。購入代行も承ります。
+							<div class="import-export-guide-box">
+							<ul>
+								<li>・月会費：$0～</li>
+								<li>・国際送料：$0~</li>
+								<li>・会員マイページ上で荷物の入出荷状況を一括確認</li>
+							</ul>
+							</div>
+							<center><a href="http://localhost/ninja-express-test/guide/import-guide/" class="btn-sticky">詳しく見る</a></center>
+						</div>
+					</div>
+				</div>
+				<div class="col6">
+					<div class="export-guide-box">
+						<div class="box-title">輸出プラン</div>
+							<p style="text-align: center;"><span style="font-size: 42pt;"><i class="fa fa-cubes"><span style="color: transparent; display: none;">icon-android</span></i></span></p>
+							<div class="import-export-guide-box-inner">
+							<span class="under-yellow">輸出プランは<font color="#ff6060" size="4"><b>「日本」から「アメリカ」向け</b></font>のお荷物をお届けいたします。</span>ご指定いただい日本の住所へ忍者エクスプレスが直接集荷にお伺いします。US AmazonへFBA納品ももちろん対応可能！
+							<div class="import-export-guide-box">
+							<ul>
+								<li>・月会費：¥0～</li>
+								<li>・国際送料：¥0~</li>
+								<li>・ご指定された日本国内の住所まで直接集荷！</li>
+							</ul>
+							</div>
+							<center><a href="http://localhost/ninja-express-test/guide/export-guide/" class="btn-sticky">詳しく見る</a></center>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 	<div class="loading-wrapper"></div>
 	<div class="header-eyecatch-overlay"></div>
 </div>

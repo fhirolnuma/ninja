@@ -23,9 +23,7 @@ function emanon_business_solution_section() {
 }
 
 // 自作セクションの表示
-function emanon_business_guide_section() {
-		get_template_part( 'lib/modules/sections/section-guide' );
-}
+
 
 // セールスセクションの表示
 function emanon_business_sales_section() {
