@@ -91,16 +91,9 @@
 				<div class="col6 first">
 					<div class="import-guide-box">
 						<div class="box-title">輸入プラン</div>
-						<p style="text-align: center;"><span style="font-size: 42pt;"><i class="fa fa-plane"><span style="color: transparent; display: none;">icon-android</span></i></span></p>
+						<center><img src="http://localhost/ninja-express-test/wp-content/uploads/2020/10/us_to_jp.png"></center>
 						<div class="import-export-guide-box-inner">
-							<span class="under-yellow">輸入プランは<font color="#ff6060" size="4"><b>「アメリカ」から「日本」向け</b></font>のお荷物をお届けいたします。</span>アメリカ国内で購入された商品を忍者エクスプレスがご指定の日本の住所までお届けいたします。購入代行も承ります。
-							<div class="import-export-guide-box">
-							<ul>
-								<li>・月会費：$0～</li>
-								<li>・国際送料：$0~</li>
-								<li>・会員マイページ上で荷物の入出荷状況を一括確認</li>
-							</ul>
-							</div>
+							輸入プランは<font color="#ff6060" size="4"><b>「アメリカ」から「日本」向け</b></font>のお荷物をお届けいたします。アメリカ国内のお荷物を、ご指定の日本の住所までお届けいたします。
 							<center><a href="http://localhost/ninja-express-test/guide/import-guide/" class="btn-sticky">詳しく見る</a></center>
 						</div>
 					</div>
@@ -108,16 +101,9 @@
 				<div class="col6">
 					<div class="export-guide-box">
 						<div class="box-title">輸出プラン</div>
-							<p style="text-align: center;"><span style="font-size: 42pt;"><i class="fa fa-cubes"><span style="color: transparent; display: none;">icon-android</span></i></span></p>
+							<center><img src="http://localhost/ninja-express-test/wp-content/uploads/2020/10/jp_to_us.png"></center>
 							<div class="import-export-guide-box-inner">
-							<span class="under-yellow">輸出プランは<font color="#ff6060" size="4"><b>「日本」から「アメリカ」向け</b></font>のお荷物をお届けいたします。</span>ご指定いただい日本の住所へ忍者エクスプレスが直接集荷にお伺いします。US AmazonへFBA納品ももちろん対応可能！
-							<div class="import-export-guide-box">
-							<ul>
-								<li>・月会費：¥0～</li>
-								<li>・国際送料：¥0~</li>
-								<li>・ご指定された日本国内の住所まで直接集荷！</li>
-							</ul>
-							</div>
+							輸出プランは<font color="#ff6060" size="4"><b>「日本」から「アメリカ」向け</b></font>のお荷物をお届けいたします。日本国内のお荷物を、ご指定のアメリカの住所までお届けします。US AmazonへFBA納品ももちろん対応可能！
 							<center><a href="http://localhost/ninja-express-test/guide/export-guide/" class="btn-sticky">詳しく見る</a></center>
 						</div>
 					</div>

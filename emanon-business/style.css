@@ -1181,12 +1181,11 @@ Emanon Business用のスタイルを以下に記述
 
 /* ▼輸入・輸出ガイド用枠内小窓*/
 .import-export-guide-box {
-    padding: 1em;
-    margin: 1em 0 1em;
+    padding: 1em 0 1em;
+    margin: 1em;
     background: #FFFFFF;
 	text-align:left
 }
-
 
 .import-export-guide-box-inner{
     padding: 1em;
@@ -1196,17 +1195,22 @@ Emanon Business用のスタイルを以下に記述
 .import-guide-box {
     margin: 2em 0;
     padding-bottom: 1em;
-	background: #ECEEF1;
+	background: #f8f8f8;
 	position: relative;
 	z-index: 300;
 }
+
+.import-guide-box img {
+	margin-top: 1em;
+}
+
 .import-guide-box .box-title {
     font-size: 1.2em;
-    background: #58BE89;
+    background: #07084D;
     padding: 4px;
     text-align: center;
     color: #FFF;
-    font-weight: bold;
+    /*font-weight: bold;*/
     letter-spacing: 0.05em;
 }
 .import-guide-box p {
@@ -1215,26 +1219,30 @@ Emanon Business用のスタイルを以下に記述
 }
 
 .import-guide-box i {
-	color: #58BE89;
+	color: #07084D;
 }
  
 
 /* ▼輸出ガイド用枠線*/
-
 .export-guide-box {
     margin: 2em 0;
     padding-bottom: 1em;
-	background: #ECEEF1;
+	background: #f8f8f8;
 	position: relative;
 	z-index: 300;
 }
+
+.export-guide-box img {
+	margin-top: 1em;
+}
+
 .export-guide-box .box-title {
     font-size: 1.2em;
-    background: #FBA848;
+    background: #EB6D8E;
     padding: 4px;
     text-align: center;
     color: #FFF;
-    font-weight: bold;
+    /*font-weight: bold;*/
     letter-spacing: 0.05em;
 }
 .export-guide-box p {
@@ -1243,7 +1251,7 @@ Emanon Business用のスタイルを以下に記述
 }
 
 .export-guide-box i {
-	color: #FBA848;
+	color: #EB6D8E;
 }
 
 
@@ -1328,3 +1336,84 @@ Emanon Business用のスタイルを以下に記述
 	position: relative;
 	padding: 50px 8px !important;
 }
+
+/* ▼ステップフロー*/
+/* HTMLは下記のようにして記述すること
+<ul class="stepflow">
+<li>
+<div class="stepflow-black"></div>
+<div class="stepflow_label">STEP1</div>
+<div class="stepflow_title">*タイトル*</div>
+<div class="stepflow_content">*コンテンツ*</div>
+</li>
+</ul>
+*/
+
+/*ステップフローのCSS*/
+ul.stepflow {
+	border: none;
+	margin: 1em 0.5em;
+	padding: 0;
+	list-style: none;
+}
+ul.stepflow > li:before, ol.stepflow > li:before {
+	background-color:#cccccc!important;
+}
+.stepflow li {
+    position: relative;
+    padding: 0 0 1.5em 1.8em;
+}
+.stepflow>li:before {
+	content: "";
+	width: 3px;
+	background: #cccccc;
+	display: block;
+	position: absolute;
+	top: 28px;
+	bottom: 0;
+	left: 5px;
+}
+.stepflow-white {
+	content: '';
+	display: inline-block;
+	position: absolute;
+	top: 5px;
+	left: 0;
+	width: 14px;
+	height: 14px;
+	border-radius: 50%;
+	border: solid 3px #232F3E;
+}
+.stepflow-black {
+	content: '';
+	display: inline-block;
+	position: absolute;
+	top: 5px;
+	left: 0;
+	width: 14px;
+	height: 14px;
+	border-radius: 50%;
+	border: solid 3px #232F3E;
+	background-color: #232F3E;
+}
+.stepflow_label {
+	padding: 3px 0px 8px 0px;
+	margin-bottom:8px;
+	color: #999999;
+	font-size: .8em;
+	font-weight: bold;
+}
+.stepflow_title {
+	font-size: 1.2em;
+	font-weight: bold;
+	line-height: 1.5;
+	margin-bottom:15px;
+}
+.stepflow_content {
+	font-size: .9em;
+	line-height: 1.5;
+	margin-top: .5em;
+	padding: 0 0 1.5em;
+	border-bottom: dashed 1px #cccccc;
+}
+/*ステップフローのCSSここまで*/
