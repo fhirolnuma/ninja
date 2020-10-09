@@ -94,7 +94,7 @@
 						<center><img src="http://localhost/ninja-express-test/wp-content/uploads/2020/10/us_to_jp.png"></center>
 						<div class="import-export-guide-box-inner">
 							輸入プランは<font color="#ff6060" size="4"><b>「アメリカ」から「日本」向け</b></font>のお荷物をお届けいたします。アメリカ国内のお荷物を、ご指定の日本の住所までお届けいたします。
-							<center><a href="http://localhost/ninja-express-test/guide/import-guide/" class="btn-sticky">詳しく見る</a></center>
+							<span class="btn btn-mid"><a href="http://localhost/ninja-express-test/guide/import-guide/">詳しくは見る</a></span>
 						</div>
 					</div>
 				</div>
@@ -104,7 +104,7 @@
 							<center><img src="http://localhost/ninja-express-test/wp-content/uploads/2020/10/jp_to_us.png"></center>
 							<div class="import-export-guide-box-inner">
 							輸出プランは<font color="#ff6060" size="4"><b>「日本」から「アメリカ」向け</b></font>のお荷物をお届けいたします。日本国内のお荷物を、ご指定のアメリカの住所までお届けします。US AmazonへFBA納品ももちろん対応可能！
-							<center><a href="http://localhost/ninja-express-test/guide/export-guide/" class="btn-sticky">詳しく見る</a></center>
+							<span class="btn btn-mid"><a href="http://localhost/ninja-express-test/export-guide/price/">詳しくは見る</a></span>
 						</div>
 					</div>
 				</div>

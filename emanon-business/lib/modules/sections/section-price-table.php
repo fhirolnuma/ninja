@@ -36,7 +36,7 @@
 					<?php endif; ?>
 					<?php $price_description = get_theme_mod( 'price_description_'.$li ); ?>
 					<?php if( $price_description ): ?>
-					<div class="price-description"><?php echo nl2br( esc_html( $price_description )	 ); ?></div>
+					<div class="price-description"><?php echo nl2br( $price_description  ); ?></div>
 					<?php endif; ?>
 					</td>
 				<?php } ?>

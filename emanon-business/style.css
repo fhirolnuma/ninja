@@ -1207,10 +1207,10 @@ Emanon Business用のスタイルを以下に記述
 .import-guide-box .box-title {
     font-size: 1.2em;
     background: #07084D;
-    padding: 4px;
+    padding: 10px 4px 10px 4px;
     text-align: center;
     color: #FFF;
-    /*font-weight: bold;*/
+    font-weight: bold;
     letter-spacing: 0.05em;
 }
 .import-guide-box p {
@@ -1239,10 +1239,10 @@ Emanon Business用のスタイルを以下に記述
 .export-guide-box .box-title {
     font-size: 1.2em;
     background: #EB6D8E;
-    padding: 4px;
+    padding: 10px 4px 10px 4px;
     text-align: center;
     color: #FFF;
-    /*font-weight: bold;*/
+    font-weight: bold;
     letter-spacing: 0.05em;
 }
 .export-guide-box p {
